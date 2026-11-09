@@ -1,0 +1,182 @@
+﻿order_id,customer_id,employee_id,order_date,status,payment_method
+50002,2031,304,2026-04-13,Completed,Cash
+50003,2025,301,2026-04-10,Completed,Bank Transfer
+50004,2019,307,2026-06-28,Cancelled,Credit Card
+50005,2043,308,2026-02-09,Completed,Apple Pay
+50006,2014,301,2026-05-29,Cancelled,Credit Card
+50007,2004,306,2026-01-15,Completed,Credit Card
+50008,2031,303,2026-01-15,Pending,Card
+50009,2055,303,2026-01-18,Pending,Card
+50010,2044,304,2026-04-14,Completed,Credit Card
+50011,2016,301,2026-06-08,Completed,Bank Transfer
+50012,2043,306,08/03/2026,Completed,Apple Pay
+50013,2016,305,2026-04-12,Completed,Apple Pay
+50014,2030,306,2026-07-12,Completed,Card
+50015,2030,302,2026-01-19,Pending,Cash
+50016,2033,305,2026-02-03,Completed,Card
+50017,2057,304,2026-04-05,Completed,Cash
+50018,2029,305,06-Jun-2026,Returned,Credit Card
+50019,2001,305,2026-06-19,Completed,Cash
+50020,2017,302,2026-01-28,Cancelled,Credit Card
+50021,2010,305,2026-03-14,Pending,Cash
+50022,2046,306,2026-02-22,Cancelled,Apple Pay
+50023,2033,308,06/03/2026,Returned,Card
+50024,2006,307,2026-03-12,Completed,Card
+50025,2022,303,2026-06-13,Completed,Cash
+50026,2048,308,2026-05-22,Cancelled,Bank Transfer
+50027,2036,301,2026-01-29,Completed,Cash
+50028,2035,301,2026-04-05,Pending,Credit Card
+50029,2010,307,2026-02-02,Completed,Apple Pay
+50030,2024,301,2026-04-02, completed ,Cash
+50031,2043,302,2026-04-01,Returned,Credit Card
+50032,2057,307,2026-06-08,Cancelled, credit card 
+50033,2060,304,2026-02-11,Returned,Cash
+50034,2057,307,07/01/2026,Completed,Apple Pay
+50035,2051,307,25-Jul-2026,Cancelled,Cash
+50036,2018,303,2026-07-21,Cancelled,Card
+50037,2025,301,2026-05-01,Completed,Cash
+50038,2053,308,2026-03-31,CANCELLED,Cash
+50039,2015,301,2026-06-18,Completed,Bank Transfer
+50040,2022,305,2026-01-18,Returned,Apple Pay
+50041,2023,307,2026-06-23,Returned,Credit Card
+50042,2022,301,2026-01-30,Completed,Cash
+50043,2038,305,2026-01-10,Completed,Credit Card
+50044,2028,306,,Returned,Apple Pay
+50045,2028,302,09/04/2026,Pending,Cash
+50046,2017,301,2026-07-01,Shipped,Card
+50047,2034,304,2026-04-04,Shipped,Card
+50048,2043,306,2026-06-09,Completed,Card
+50048,2043,306,2026-06-09,Completed,Card
+50049,2047,305,2026-05-10,Completed,Bank Transfer
+50050,2021,307,2026-06-28,Completed,Credit Card
+50051,2009,304,2026-04-18,Cancelled,Bank Transfer
+50052,2044,303,07-Jun-2026,Pending,Apple Pay
+50053,2026,301,2026-03-19,Completed,Cash
+50054,2028,306,2026-04-30,Shipped,Bank Transfer
+50055,2044,304,2026-05-11,Shipped,Cash
+50056,2043,302,14/03/2026,Pending,Credit Card
+50057,2022,302,2026-07-29,Returned,Cash
+50058,2044,305,2026-02-27,Returned,Cash
+50059,2010,301,2026-01-12, completed ,Bank Transfer
+50060,2040,302,2026-04-27,Shipped,Credit Card
+50061,2013,307,2026-05-07,Shipped,Cash
+50062,2010,301,2026-07-12,Returned,Card
+50063,2050,307,2026-02-26,Completed, credit card 
+50064,2030,301,2026-05-23,Completed,Card
+50065,2030,303,2026-07-25,Shipped,Credit Card
+50066,2036,306,2026-07-13,Shipped,Credit Card
+50067,2053,307,21/05/2026,Shipped,Cash
+50068,2048,308,2026-04-26,Completed,Cash
+50069,2054,305,16-Jul-2026,Returned,Credit Card
+50070,2032,304,2026-03-12,Shipped,Card
+50071,2046,305,2026-03-02,Completed,Apple Pay
+50072,2021,302,2026-02-05,Completed,Cash
+50073,2025,303,2026-06-30,Completed,Card
+50074,2027,307,2026-03-26,Pending,Bank Transfer
+50075,2027,301,2026-02-22,CANCELLED,Bank Transfer
+50076,2025,301,2026-07-15,Pending,Bank Transfer
+50077,2031,301,2026-04-01,Completed,Bank Transfer
+50078,2055,307,18/05/2026,Cancelled,Credit Card
+50079,2052,304,2026-05-05,Completed,Apple Pay
+50080,2028,308,2026-01-08,Shipped,Apple Pay
+50081,2043,307,2026-07-05,Completed,Bank Transfer
+50082,2059,303,2026-06-09,Pending,Card
+50083,2059,307,2026-06-01,Pending,Card
+50084,2006,307,2026-02-04,Returned,Bank Transfer
+50085,2012,301,2026-03-08,Shipped,Apple Pay
+50086,2014,308,25-Mar-2026,Completed,Bank Transfer
+50087,2018,307,,Returned,Card
+50088,2031,301,2026-07-11, completed ,Card
+50089,2023,304,16/06/2026,Completed,Card
+50090,2049,301,2026-03-05,Completed,Card
+50091,2040,303,2026-03-03,Completed,Bank Transfer
+50092,2043,302,2026-05-25,Completed,Bank Transfer
+50093,2045,305,2026-07-16,Completed,Cash
+50094,2039,302,2026-07-19,Returned, credit card 
+50095,2020,302,2026-05-29,Completed,Apple Pay
+50096,2037,307,2026-04-12,Cancelled,Cash
+50097,2005,304,2026-01-27,Cancelled,Apple Pay
+50098,2055,302,2026-07-23,Pending,Card
+50099,2023,307,2026-06-19,Completed,Card
+50100,2033,306,04/01/2026,Returned,Bank Transfer
+50101,2053,308,2026-01-28,Shipped,Apple Pay
+50102,2041,308,2026-07-01,Completed,Bank Transfer
+50103,2012,305,07-Jun-2026,Returned,Credit Card
+50104,2050,308,2026-04-30,Shipped,Credit Card
+50105,2018,306,2026-03-04,Returned,Card
+50106,2018,308,2026-03-04,Returned,Bank Transfer
+50107,2037,307,2026-03-28,Completed,Bank Transfer
+50108,2055,306,2026-02-16,Shipped,Cash
+50109,2023,305,2026-03-29,Completed,Credit Card
+50110,2045,305,2026-05-23,Completed,Credit Card
+50111,2013,302,03/03/2026,Cancelled,Bank Transfer
+50112,2032,304,2026-06-26,CANCELLED,Bank Transfer
+50113,2029,301,2026-01-24,Completed,Cash
+50114,2026,304,2026-03-20,Cancelled,Credit Card
+50115,2024,308,2026-05-22,Pending,Apple Pay
+50116,2028,306,2026-04-01,Cancelled,Bank Transfer
+50117,2018,305,2026-03-06, completed ,Card
+50118,2047,304,2026-03-22,Completed,Credit Card
+50119,2049,303,2026-02-19,Completed,Bank Transfer
+50120,2018,305,26-Jan-2026,Returned,Cash
+50121,2019,304,2026-04-03,Completed,Apple Pay
+50122,2001,303,12/03/2026,Completed,Card
+50123,2036,305,2026-06-28,Completed,Bank Transfer
+50124,2007,301,2026-05-27,Completed,Bank Transfer
+50125,2031,308,2026-03-29,Completed, credit card 
+50126,2017,308,2026-01-30,Returned,Card
+50127,2026,308,2026-01-19,Pending,Card
+50128,2010,303,2026-07-27,Pending,Apple Pay
+50129,2006,304,2026-01-31,Pending,Bank Transfer
+50130,2039,304,,Pending,Bank Transfer
+50131,2029,308,2026-03-18,Returned,Credit Card
+50132,2028,305,2026-05-26,Pending,Card
+50133,2040,302,15/07/2026,Completed,Cash
+50134,2017,302,2026-02-10,Completed,Cash
+50135,2036,302,2026-02-10,Completed,Bank Transfer
+50136,2029,308,2026-03-16,Completed,Cash
+50137,2019,305,29-Jun-2026,Returned,Bank Transfer
+50138,2005,304,2026-03-09,Returned,Credit Card
+50139,2043,304,2026-04-19,Completed,Credit Card
+50140,2015,303,2026-03-10,Returned,Cash
+50141,2005,301,2026-02-12,Returned,Apple Pay
+50142,2039,305,2026-04-23,Completed,Bank Transfer
+50143,2045,305,2026-06-29,Shipped,Apple Pay
+50144,2033,308,23/04/2026,Completed,Credit Card
+50145,2003,307,2026-07-08,Completed,Credit Card
+50146,2017,301,2026-01-24, completed ,Credit Card
+50147,2038,301,2026-07-15,Cancelled,Apple Pay
+50148,2037,301,2026-07-15,Returned,Cash
+50149,2031,308,2026-03-13,CANCELLED,Credit Card
+50150,2028,308,2026-01-24,Shipped,Apple Pay
+50151,2027,306,2026-03-24,Cancelled,Card
+50152,2055,303,2026-03-26,Shipped,Bank Transfer
+50153,2019,307,2026-07-28,Returned,Credit Card
+50154,2003,308,23-Jan-2026,Completed,Apple Pay
+50155,2021,302,17/07/2026,Shipped,Credit Card
+50156,2053,301,2026-06-18,Returned, credit card 
+50157,2030,307,2026-01-14,Completed,Credit Card
+50158,2024,308,2026-06-10,Shipped,Card
+50159,2014,305,2026-05-21,Completed,Apple Pay
+50160,2029,308,2026-02-01,Completed,Credit Card
+50161,2052,304,2026-07-01,Completed,Apple Pay
+50162,2036,301,2026-05-22,Shipped,Card
+50163,2015,302,2026-04-29,Completed,Cash
+50164,2032,305,2026-05-11,Cancelled,Apple Pay
+50165,2027,308,2026-05-01,Completed,Bank Transfer
+50166,2036,303,09/04/2026,Completed,Credit Card
+50167,2033,303,2026-01-18,Completed,Bank Transfer
+50168,2022,305,2026-07-30,Completed,Apple Pay
+50169,2047,305,2026-05-31,Pending,Bank Transfer
+50170,2056,303,2026-04-25,Pending,Bank Transfer
+50171,2023,306,22-May-2026,Returned,Credit Card
+50172,2025,308,2026-03-24,Returned,Cash
+50173,2045,304,,Shipped,Cash
+50174,2055,307,2026-01-12,Completed,Bank Transfer
+50175,2046,307,2026-04-09, completed ,Cash
+50176,2032,301,2026-02-02,Pending,Credit Card
+50177,2022,302,23/04/2026,Completed,Credit Card
+50178,2059,308,2026-01-04,Cancelled,Cash
+50179,2027,303,2026-01-20,Shipped,Apple Pay
+50180,2022,307,2026-06-16,Completed,Apple Pay
+50181,2055,307,2026-03-23,Cancelled,Bank Transfer

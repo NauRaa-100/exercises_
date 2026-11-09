@@ -1,0 +1,473 @@
+,customer_id,customer_name,email,city,signup_date,order_id,employee_id,order_date,status,payment_method,order_item_id,product_id,quantity,unit_price,discount_pct,gross_revenue,net_revenue,Month,product_name,category,unit_cost,list_price
+0,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50019.0,305.0,2026-06-19,Completed,Cash,90043.0,1002.0,4.0,332.55,0.0,1330.2,1330.2,2026-06,Bluetooth Speaker,Electronics,220.00,345.41
+1,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50019.0,305.0,2026-06-19,Completed,Cash,90044.0,1004.0,4.0,42.42,0.0,169.68,169.68,2026-06,Power Bank,Electronics,22.00,41.61
+2,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50019.0,305.0,2026-06-19,Completed,Cash,90045.0,1021.0,1.0,156.41,0.0,156.41,156.41,2026-06,Yoga Mat,Sports,85.00,151.21
+3,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50122.0,303.0,,Completed,Card,90301.0,1003.0,4.0,48.43,20.0,193.72,154.98,,USB-C Hub, electronics ,35.00,51.16
+4,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50122.0,303.0,,Completed,Card,90302.0,1005.0,4.0,157.35,5.0,629.4,597.93,,Keyboard,Electronics,110.00,156.15
+5,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50122.0,303.0,,Completed,Card,90303.0,1018.0,4.0,103.6,15.0,414.4,352.24,,Hair Dryer,Beauty,AED 95.00,99.92
+6,2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25,50122.0,303.0,,Completed,Card,90304.0,1024.0,1.0,279.68,5.0,279.68,265.7,,Dumbbells,Sports,140.00,288.17
+7,2002,Salma Ali,salma.ali62@example.com,Abu Dhabi,2025-08-21,,,,,,,,,,,,,,,,,
+8,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50145.0,307.0,2026-07-08,Completed,Credit Card,90357.0,1018.0,3.0,99.95,0.0,299.85,299.85,2026-07,Hair Dryer,Beauty,AED 95.00,99.92
+9,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50145.0,307.0,2026-07-08,Completed,Credit Card,90358.0,1023.0,4.0,95.39,20.0,381.56,305.25,2026-07,Fitness Bottle,Sports,45.00,90.61
+10,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50145.0,307.0,2026-07-08,Completed,Credit Card,90359.0,1006.0,1.0,96.56,0.0,96.56,96.56,2026-07,Air Fryer,Home,70.00,96.28
+11,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50154.0,308.0,,Completed,Apple Pay,90381.0,1008.0,1.0,195.87,0.0,195.87,195.87,,Desk Lamp,home ,110.00,201.48
+12,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50154.0,308.0,,Completed,Apple Pay,90382.0,1013.0,2.0,34.76,15.0,69.52,59.09,,Backpack,FASHION,18.00,35.23
+13,2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22,50154.0,308.0,,Completed,Apple Pay,90383.0,1012.0,1.0,207.09,0.0,207.09,,,Running Shoes,Fashion,140.00,220.16
+14,2004,Adam Mahmoud,adam.mahmoud64@example.com,Dubai,2025-12-29,50007.0,306.0,2026-01-15,Completed,Credit Card,90012.0,1015.0,3.0,84.4,10.0,253.2,227.88,2026-01,Hoodie,Fashion,55.00,86.48
+15,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50097.0,304.0,2026-01-27,Cancelled,Apple Pay,90237.0,1020.0,1.0,380.57,0.0,380.57,380.57,2026-01,Sunscreen,Beauty,260.00,360.04
+16,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50097.0,304.0,2026-01-27,Cancelled,Apple Pay,90238.0,1013.0,3.0,37.29,20.0,111.87,89.5,2026-01,Backpack,FASHION,18.00,35.23
+17,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50097.0,304.0,2026-01-27,Cancelled,Apple Pay,90239.0,1018.0,3.0,95.65,20.0,286.95,229.56,2026-01,Hair Dryer,Beauty,AED 95.00,99.92
+18,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50138.0,304.0,2026-03-09,Returned,Credit Card,90341.0,1010.0,3.0,344.52,0.0,1033.56,1033.56,2026-03,Coffee Maker,Home,180.00,343.99
+19,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50138.0,304.0,2026-03-09,Returned,Credit Card,90342.0,1016.0,4.0,76.74,0.0,306.96,306.96,2026-03,Face Cleanser,Beauty,35.00,74.05
+20,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50138.0,304.0,2026-03-09,Returned,Credit Card,90343.0,1024.0,4.0,299.92,20.0,1199.68,959.74,2026-03,Dumbbells,Sports,140.00,288.17
+21,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50141.0,301.0,2026-02-12,Returned,Apple Pay,90350.0,1006.0,2.0,96.82,15.0,193.64,164.59,2026-02,Air Fryer,Home,70.00,96.28
+22,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50141.0,301.0,2026-02-12,Returned,Apple Pay,90351.0,1006.0,1.0,90.89,10.0,90.89,81.8,2026-02,Air Fryer,Home,70.00,96.28
+23,2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25,50141.0,301.0,2026-02-12,Returned,Apple Pay,90352.0,1003.0,1.0,48.13,20.0,48.13,38.5,2026-02,USB-C Hub, electronics ,35.00,51.16
+24,2006,Omar Adel,omar.adel66@example.com,Fujairah,2025-09-26,50024.0,307.0,2026-03-12,Completed,Card,90054.0,1024.0,1.0,286.38,5.0,286.38,272.06,2026-03,Dumbbells,Sports,140.00,288.17
+25,2006,Omar Adel,omar.adel66@example.com,Fujairah,2025-09-26,50084.0,307.0,2026-02-04,Returned,Bank Transfer,90198.0,1004.0,2.0,39.81,20.0,79.62,63.7,2026-02,Power Bank,Electronics,22.00,41.61
+26,2006,Omar Adel,omar.adel66@example.com,Fujairah,2025-09-26,50084.0,307.0,2026-02-04,Returned,Bank Transfer,90199.0,1016.0,1.0,74.53,0.0,74.53,74.53,2026-02,Face Cleanser,Beauty,35.00,74.05
+27,2006,Omar Adel,omar.adel66@example.com,Fujairah,2025-09-26,50129.0,304.0,2026-01-31,Pending,Bank Transfer,90320.0,1008.0,1.0,200.0,5.0,200.0,190.0,2026-01,Desk Lamp,home ,110.00,201.48
+28,2007,Ziad Fathy,ziad.fathy67@example.com,Abu Dhabi,2025-09-22,50124.0,301.0,2026-05-27,Completed,Bank Transfer,90306.0,1012.0,1.0,233.21,10.0,233.21,209.89,2026-05,Running Shoes,Fashion,140.00,220.16
+29,2007,Ziad Fathy,ziad.fathy67@example.com,Abu Dhabi,2025-09-22,50124.0,301.0,2026-05-27,Completed,Bank Transfer,90307.0,1003.0,4.0,49.85,0.0,199.4,199.4,2026-05,USB-C Hub, electronics ,35.00,51.16
+30,2007,Ziad Fathy,ziad.fathy67@example.com,Abu Dhabi,2025-09-22,50124.0,301.0,2026-05-27,Completed,Bank Transfer,90308.0,1006.0,2.0,97.92,20.0,195.84,156.67,2026-05,Air Fryer,Home,70.00,96.28
+31,2007,Ziad Fathy,ziad.fathy67@example.com,Abu Dhabi,2025-09-22,50124.0,301.0,2026-05-27,Completed,Bank Transfer,90309.0,1024.0,4.0,305.21,0.0,1220.84,1220.84,2026-05,Dumbbells,Sports,140.00,288.17
+32,2008,Farah Ibrahim,farah.ibrahim68@example.com,Sharjah,2026-05-24,,,,,,,,,,,,,,,,,
+33,2009,Ziad Saeed,Unknown,Fujairah,2025-12-14,50051.0,304.0,2026-04-18,Cancelled,Bank Transfer,90116.0,1011.0,4.0,102.36,10.0,409.44,368.5,2026-04,Cotton T-Shirt,Fashion,70.00,106.84
+34,2009,Ziad Saeed,Unknown,Fujairah,2025-12-14,50051.0,304.0,2026-04-18,Cancelled,Bank Transfer,90117.0,1002.0,4.0,358.3,0.0,1433.2,1433.2,2026-04,Bluetooth Speaker,Electronics,220.00,345.41
+35,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50021.0,305.0,2026-03-14,Pending,Cash,90048.0,1011.0,2.0,111.98,0.0,223.96,,2026-03,Cotton T-Shirt,Fashion,70.00,106.84
+36,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50021.0,305.0,2026-03-14,Pending,Cash,90049.0,1001.0,3.0,274.08,20.0,822.24,657.79,2026-03,Wireless Mouse,Electronics,180.00,259.03
+37,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50029.0,307.0,2026-02-02,Completed,Apple Pay,90063.0,1004.0,1.0,42.38,20.0,42.38,33.9,2026-02,Power Bank,Electronics,22.00,41.61
+38,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50029.0,307.0,2026-02-02,Completed,Apple Pay,90064.0,1025.0,2.0,99.07,5.0,198.14,188.23,2026-02,Sports Watch,Sports,Unknown,99.65
+39,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50029.0,307.0,2026-02-02,Completed,Apple Pay,90065.0,1008.0,4.0,209.4,0.0,837.6,837.6,2026-02,Desk Lamp,home ,110.00,201.48
+40,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50029.0,307.0,2026-02-02,Completed,Apple Pay,90066.0,1013.0,4.0,33.52,15.0,134.08,113.97,2026-02,Backpack,FASHION,18.00,35.23
+41,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50059.0,301.0,2026-01-12,Completed,Bank Transfer,90134.0,1020.0,4.0,345.45,0.0,1381.8,1381.8,2026-01,Sunscreen,Beauty,260.00,360.04
+42,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50059.0,301.0,2026-01-12,Completed,Bank Transfer,90135.0,1023.0,2.0,89.93,15.0,179.86,152.88,2026-01,Fitness Bottle,Sports,45.00,90.61
+43,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50062.0,301.0,2026-07-12,Returned,Card,90144.0,1009.0,4.0,158.98,10.0,635.92,572.33,2026-07,Storage Box,Home,110.00,166.00
+44,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50062.0,301.0,2026-07-12,Returned,Card,90145.0,1014.0,1.0,59.44,0.0,59.44,59.44,2026-07,Sunglasses,Fashion,30.00,57.26
+45,2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17,50128.0,303.0,2026-07-27,Pending,Apple Pay,90319.0,1020.0,1.0,364.26,5.0,364.26,346.05,2026-07,Sunscreen,Beauty,260.00,360.04
+46,2011,Hana Ibrahim,hana.ibrahim71@example.com,Sharjah,2025-08-03,,,,,,,,,,,,,,,,,
+47,2011,Hana Ibrahim,hana.ibrahim71@example.com,Sharjah,2025-08-03,,,,,,,,,,,,,,,,,
+48,2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09,50085.0,301.0,2026-03-08,Shipped,Apple Pay,90200.0,1015.0,2.0,0.0,10.0,,,2026-03,Hoodie,Fashion,55.00,86.48
+49,2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09,50085.0,301.0,2026-03-08,Shipped,Apple Pay,90201.0,1003.0,3.0,54.23,5.0,162.69,154.56,2026-03,USB-C Hub, electronics ,35.00,51.16
+50,2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09,50085.0,301.0,2026-03-08,Shipped,Apple Pay,90202.0,1024.0,4.0,285.09,10.0,1140.36,1026.32,2026-03,Dumbbells,Sports,140.00,288.17
+51,2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09,50103.0,305.0,,Returned,Credit Card,90253.0,1014.0,4.0,59.65,20.0,238.6,190.88,,Sunglasses,Fashion,30.00,57.26
+52,2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09,50103.0,305.0,,Returned,Credit Card,90254.0,1024.0,1.0,275.65,15.0,275.65,234.3,,Dumbbells,Sports,140.00,288.17
+53,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50061.0,307.0,2026-05-07,Shipped,Cash,90140.0,1017.0,4.0,81.74,0.0,326.96,326.96,2026-05,Moisturizer,Beauty,55.00,78.75
+54,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50061.0,307.0,2026-05-07,Shipped,Cash,90141.0,1020.0,2.0,349.24,20.0,698.48,558.78,2026-05,Sunscreen,Beauty,260.00,360.04
+55,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50061.0,307.0,2026-05-07,Shipped,Cash,90142.0,1021.0,4.0,148.87,20.0,595.48,476.38,2026-05,Yoga Mat,Sports,85.00,151.21
+56,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50061.0,307.0,2026-05-07,Shipped,Cash,90143.0,1004.0,1.0,39.53,0.0,39.53,39.53,2026-05,Power Bank,Electronics,22.00,41.61
+57,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50111.0,302.0,,Cancelled,Bank Transfer,90273.0,1011.0,3.0,101.19,15.0,303.57,258.03,,Cotton T-Shirt,Fashion,70.00,106.84
+58,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50111.0,302.0,,Cancelled,Bank Transfer,90274.0,1025.0,1.0,100.54,15.0,100.54,85.46,,Sports Watch,Sports,Unknown,99.65
+59,2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19,50111.0,302.0,,Cancelled,Bank Transfer,90275.0,1018.0,1.0,98.94,0.0,98.94,98.94,,Hair Dryer,Beauty,AED 95.00,99.92
+60,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50006.0,301.0,2026-05-29,Cancelled,Credit Card,90008.0,1020.0,2.0,377.88,5.0,755.76,717.97,2026-05,Sunscreen,Beauty,260.00,360.04
+61,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50006.0,301.0,2026-05-29,Cancelled,Credit Card,90009.0,1005.0,2.0,158.73,5.0,317.46,301.59,2026-05,Keyboard,Electronics,110.00,156.15
+62,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50006.0,301.0,2026-05-29,Cancelled,Credit Card,90010.0,1015.0,3.0,81.39,15.0,244.17,207.54,2026-05,Hoodie,Fashion,55.00,86.48
+63,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50006.0,301.0,2026-05-29,Cancelled,Credit Card,90011.0,1015.0,3.0,86.96,15.0,260.88,221.75,2026-05,Hoodie,Fashion,55.00,86.48
+64,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50086.0,308.0,,Completed,Bank Transfer,90203.0,1019.0,1.0,106.52,0.0,106.52,106.52,,Perfume,Beauty,55.00,100.81
+65,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50086.0,308.0,,Completed,Bank Transfer,90204.0,1021.0,1.0,150.59,5.0,150.59,143.06,,Yoga Mat,Sports,85.00,151.21
+66,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50086.0,308.0,,Completed,Bank Transfer,90205.0,1017.0,3.0,82.32,0.0,246.96,246.96,,Moisturizer,Beauty,55.00,78.75
+67,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50086.0,308.0,,Completed,Bank Transfer,90206.0,1025.0,2.0,105.23,0.0,210.46,,,Sports Watch,Sports,Unknown,99.65
+68,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50159.0,305.0,2026-05-21,Completed,Apple Pay,90394.0,1008.0,4.0,204.3,10.0,817.2,735.48,2026-05,Desk Lamp,home ,110.00,201.48
+69,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50159.0,305.0,2026-05-21,Completed,Apple Pay,90395.0,1015.0,1.0,84.45,0.0,84.45,84.45,2026-05,Hoodie,Fashion,55.00,86.48
+70,2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10,50159.0,305.0,2026-05-21,Completed,Apple Pay,90396.0,1013.0,3.0,35.74,20.0,107.22,85.78,2026-05,Backpack,FASHION,18.00,35.23
+71,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50039.0,301.0,2026-06-18,Completed,Bank Transfer,90086.0,1016.0,4.0,72.03,5.0,288.12,273.71,2026-06,Face Cleanser,Beauty,35.00,74.05
+72,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50039.0,301.0,2026-06-18,Completed,Bank Transfer,90087.0,1025.0,1.0,98.81,0.0,98.81,98.81,2026-06,Sports Watch,Sports,Unknown,99.65
+73,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50039.0,301.0,2026-06-18,Completed,Bank Transfer,90088.0,1010.0,4.0,350.89,10.0,1403.56,1263.2,2026-06,Coffee Maker,Home,180.00,343.99
+74,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50039.0,301.0,2026-06-18,Completed,Bank Transfer,90089.0,1002.0,2.0,365.49,5.0,730.98,694.43,2026-06,Bluetooth Speaker,Electronics,220.00,345.41
+75,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50140.0,303.0,2026-03-10,Returned,Cash,90346.0,1010.0,2.0,336.97,0.0,673.94,673.94,2026-03,Coffee Maker,Home,180.00,343.99
+76,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50140.0,303.0,2026-03-10,Returned,Cash,90347.0,1013.0,2.0,35.44,5.0,70.88,67.34,2026-03,Backpack,FASHION,18.00,35.23
+77,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50140.0,303.0,2026-03-10,Returned,Cash,90348.0,1022.0,3.0,102.04,0.0,306.12,306.12,2026-03,Resistance Bands,Sports,70.00,"1,250.00"
+78,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50140.0,303.0,2026-03-10,Returned,Cash,90349.0,1016.0,4.0,71.1,5.0,284.4,270.18,2026-03,Face Cleanser,Beauty,35.00,74.05
+79,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50163.0,302.0,2026-04-29,Completed,Cash,90405.0,1023.0,1.0,0.0,20.0,,,2026-04,Fitness Bottle,Sports,45.00,90.61
+80,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50163.0,302.0,2026-04-29,Completed,Cash,90406.0,1014.0,4.0,58.18,0.0,232.72,232.72,2026-04,Sunglasses,Fashion,30.00,57.26
+81,2015,Mariam Fathy,mariam.fathy75@example.com,Sharjah,2026-04-02,50163.0,302.0,2026-04-29,Completed,Cash,90407.0,1008.0,3.0,193.12,15.0,579.36,492.46,2026-04,Desk Lamp,home ,110.00,201.48
+82,2016,Khaled Fathy,khaled.fathy76@example.com,Ras Al Khaimah,2026-02-05,50011.0,301.0,2026-06-08,Completed,Bank Transfer,90023.0,1003.0,3.0,52.68,0.0,158.04,158.04,2026-06,USB-C Hub, electronics ,35.00,51.16
+83,2016,Khaled Fathy,khaled.fathy76@example.com,Ras Al Khaimah,2026-02-05,50011.0,301.0,2026-06-08,Completed,Bank Transfer,90024.0,1006.0,2.0,99.59,0.0,199.18,199.18,2026-06,Air Fryer,Home,70.00,96.28
+84,2016,Khaled Fathy,khaled.fathy76@example.com,Ras Al Khaimah,2026-02-05,50013.0,305.0,2026-04-12,Completed,Apple Pay,90028.0,1022.0,4.0,102.53,20.0,410.12,328.1,2026-04,Resistance Bands,Sports,70.00,"1,250.00"
+85,2016,Khaled Fathy,khaled.fathy76@example.com,Ras Al Khaimah,2026-02-05,50013.0,305.0,2026-04-12,Completed,Apple Pay,90029.0,1012.0,1.0,217.37,20.0,217.37,173.9,2026-04,Running Shoes,Fashion,140.00,220.16
+86,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50020.0,302.0,2026-01-28,Cancelled,Credit Card,90046.0,1005.0,2.0,162.33,0.0,324.66,324.66,2026-01,Keyboard,Electronics,110.00,156.15
+87,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50020.0,302.0,2026-01-28,Cancelled,Credit Card,90047.0,1018.0,2.0,96.51,0.0,193.02,,2026-01,Hair Dryer,Beauty,AED 95.00,99.92
+88,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50046.0,301.0,2026-07-01,Shipped,Card,90103.0,1003.0,1.0,51.22,10.0,51.22,46.1,2026-07,USB-C Hub, electronics ,35.00,51.16
+89,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50046.0,301.0,2026-07-01,Shipped,Card,90104.0,1025.0,3.0,102.37,0.0,307.11,307.11,2026-07,Sports Watch,Sports,Unknown,99.65
+90,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50126.0,308.0,2026-01-30,Returned,Card,90314.0,1010.0,4.0,353.03,15.0,1412.12,1200.3,2026-01,Coffee Maker,Home,180.00,343.99
+91,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50134.0,302.0,2026-02-10,Completed,Cash,90333.0,1021.0,1.0,157.51,5.0,157.51,149.63,2026-02,Yoga Mat,Sports,85.00,151.21
+92,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50134.0,302.0,2026-02-10,Completed,Cash,90334.0,1003.0,2.0,49.74,0.0,99.48,99.48,2026-02,USB-C Hub, electronics ,35.00,51.16
+93,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50134.0,302.0,2026-02-10,Completed,Cash,90335.0,1022.0,1.0,93.84,20.0,93.84,75.07,2026-02,Resistance Bands,Sports,70.00,"1,250.00"
+94,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50146.0,301.0,2026-01-24,Completed,Credit Card,90360.0,1007.0,3.0,32.96,20.0,98.88,79.1,2026-01,Water Bottle,Home,22.00,33.55
+95,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50146.0,301.0,2026-01-24,Completed,Credit Card,90360.0,1007.0,3.0,32.96,20.0,98.88,79.1,2026-01,Water Bottle,Home,22.00,33.55
+96,2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21,50146.0,301.0,2026-01-24,Completed,Credit Card,90361.0,1013.0,1.0,37.17,0.0,37.17,37.17,2026-01,Backpack,FASHION,18.00,35.23
+97,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50036.0,303.0,2026-07-21,Cancelled,Card,90082.0,1013.0,4.0,34.56,5.0,138.24,131.33,2026-07,Backpack,FASHION,18.00,35.23
+98,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50036.0,303.0,2026-07-21,Cancelled,Card,90083.0,1012.0,3.0,215.52,15.0,646.56,549.58,2026-07,Running Shoes,Fashion,140.00,220.16
+99,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50087.0,307.0,,Returned,Card,90207.0,1017.0,1.0,75.2,20.0,75.2,60.16,,Moisturizer,Beauty,55.00,78.75
+100,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50087.0,307.0,,Returned,Card,90208.0,1005.0,3.0,149.82,0.0,449.46,449.46,,Keyboard,Electronics,110.00,156.15
+101,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50087.0,307.0,,Returned,Card,90209.0,1023.0,2.0,95.48,0.0,190.96,190.96,,Fitness Bottle,Sports,45.00,90.61
+102,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50087.0,307.0,,Returned,Card,90210.0,1017.0,3.0,74.77,20.0,224.31,179.45,,Moisturizer,Beauty,55.00,78.75
+103,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50105.0,306.0,2026-03-04,Returned,Card,90257.0,1018.0,3.0,103.18,15.0,309.54,263.11,2026-03,Hair Dryer,Beauty,AED 95.00,99.92
+104,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50105.0,306.0,2026-03-04,Returned,Card,90258.0,1024.0,3.0,287.62,10.0,862.86,776.57,2026-03,Dumbbells,Sports,140.00,288.17
+105,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50105.0,306.0,2026-03-04,Returned,Card,90259.0,1008.0,3.0,196.61,0.0,589.83,,2026-03,Desk Lamp,home ,110.00,201.48
+106,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50106.0,308.0,2026-03-04,Returned,Bank Transfer,90260.0,1025.0,3.0,96.15,15.0,288.45,245.18,2026-03,Sports Watch,Sports,Unknown,99.65
+107,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50106.0,308.0,2026-03-04,Returned,Bank Transfer,90261.0,1023.0,4.0,90.39,0.0,361.56,361.56,2026-03,Fitness Bottle,Sports,45.00,90.61
+108,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50106.0,308.0,2026-03-04,Returned,Bank Transfer,90262.0,1018.0,3.0,95.39,0.0,286.17,286.17,2026-03,Hair Dryer,Beauty,AED 95.00,99.92
+109,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50117.0,305.0,2026-03-06,Completed,Card,90287.0,1011.0,3.0,109.7,10.0,329.1,296.19,2026-03,Cotton T-Shirt,Fashion,70.00,106.84
+110,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50117.0,305.0,2026-03-06,Completed,Card,90288.0,1001.0,3.0,254.66,15.0,763.98,649.38,2026-03,Wireless Mouse,Electronics,180.00,259.03
+111,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50117.0,305.0,2026-03-06,Completed,Card,90289.0,1008.0,1.0,192.25,15.0,192.25,163.41,2026-03,Desk Lamp,home ,110.00,201.48
+112,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50120.0,305.0,,Returned,Cash,90295.0,1025.0,2.0,96.63,20.0,193.26,154.61,,Sports Watch,Sports,Unknown,99.65
+113,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50120.0,305.0,,Returned,Cash,90296.0,1025.0,1.0,99.01,10.0,99.01,89.11,,Sports Watch,Sports,Unknown,99.65
+114,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50120.0,305.0,,Returned,Cash,90297.0,1023.0,3.0,95.15,0.0,285.45,285.45,,Fitness Bottle,Sports,45.00,90.61
+115,2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16,50120.0,305.0,,Returned,Cash,90298.0,1004.0,1.0,41.85,20.0,41.85,33.48,,Power Bank,Electronics,22.00,41.61
+116,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50004.0,307.0,2026-06-28,Cancelled,Credit Card,90005.0,1010.0,3.0,341.13,0.0,1023.39,1023.39,2026-06,Coffee Maker,Home,180.00,343.99
+117,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50121.0,304.0,2026-04-03,Completed,Apple Pay,90299.0,1019.0,2.0,98.73,0.0,197.46,197.46,2026-04,Perfume,Beauty,55.00,100.81
+118,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50121.0,304.0,2026-04-03,Completed,Apple Pay,90300.0,1017.0,4.0,80.45,0.0,321.8,321.8,2026-04,Moisturizer,Beauty,55.00,78.75
+119,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50137.0,305.0,,Returned,Bank Transfer,90339.0,1013.0,2.0,34.48,10.0,68.96,62.06,,Backpack,FASHION,18.00,35.23
+120,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50137.0,305.0,,Returned,Bank Transfer,90340.0,1010.0,4.0,345.38,5.0,1381.52,1312.44,,Coffee Maker,Home,180.00,343.99
+121,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50153.0,307.0,2026-07-28,Returned,Credit Card,90377.0,1025.0,3.0,101.25,0.0,303.75,303.75,2026-07,Sports Watch,Sports,Unknown,99.65
+122,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50153.0,307.0,2026-07-28,Returned,Credit Card,90378.0,1015.0,4.0,84.98,0.0,339.92,339.92,2026-07,Hoodie,Fashion,55.00,86.48
+123,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50153.0,307.0,2026-07-28,Returned,Credit Card,90379.0,1013.0,4.0,35.99,0.0,143.96,143.96,2026-07,Backpack,FASHION,18.00,35.23
+124,2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18,50153.0,307.0,2026-07-28,Returned,Credit Card,90380.0,1022.0,4.0,102.14,0.0,408.56,408.56,2026-07,Resistance Bands,Sports,70.00,"1,250.00"
+125,2020,Nour Samir,nour.samir80@example.com,Ajman,2026-05-02,50095.0,302.0,2026-05-29,Completed,Apple Pay,90230.0,1008.0,2.0,197.92,10.0,395.84,356.26,2026-05,Desk Lamp,home ,110.00,201.48
+126,2020,Nour Samir,nour.samir80@example.com,Ajman,2026-05-02,50095.0,302.0,2026-05-29,Completed,Apple Pay,90231.0,1002.0,3.0,349.45,5.0,1048.35,995.93,2026-05,Bluetooth Speaker,Electronics,220.00,345.41
+127,2020,Nour Samir,nour.samir80@example.com,Ajman,2026-05-02,50095.0,302.0,2026-05-29,Completed,Apple Pay,90232.0,1021.0,4.0,151.88,0.0,607.52,607.52,2026-05,Yoga Mat,Sports,85.00,151.21
+128,2020,Nour Samir,nour.samir80@example.com,Ajman,2026-05-02,50095.0,302.0,2026-05-29,Completed,Apple Pay,90233.0,1004.0,4.0,43.52,0.0,174.08,174.08,2026-05,Power Bank,Electronics,22.00,41.61
+129,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50050.0,307.0,2026-06-28,Completed,Credit Card,90112.0,1015.0,1.0,85.12,0.0,85.12,85.12,2026-06,Hoodie,Fashion,55.00,86.48
+130,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50050.0,307.0,2026-06-28,Completed,Credit Card,90113.0,1010.0,1.0,359.03,15.0,359.03,305.18,2026-06,Coffee Maker,Home,180.00,343.99
+131,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50050.0,307.0,2026-06-28,Completed,Credit Card,90114.0,1003.0,4.0,51.65,5.0,206.6,196.27,2026-06,USB-C Hub, electronics ,35.00,51.16
+132,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50050.0,307.0,2026-06-28,Completed,Credit Card,90115.0,1024.0,1.0,302.32,0.0,302.32,,2026-06,Dumbbells,Sports,140.00,288.17
+133,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50072.0,302.0,2026-02-05,Completed,Cash,90164.0,1021.0,2.0,156.28,20.0,312.56,250.05,2026-02,Yoga Mat,Sports,85.00,151.21
+134,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50072.0,302.0,2026-02-05,Completed,Cash,90165.0,1015.0,4.0,83.18,15.0,332.72,282.81,2026-02,Hoodie,Fashion,55.00,86.48
+135,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50072.0,302.0,2026-02-05,Completed,Cash,90166.0,1005.0,1.0,161.33,15.0,161.33,137.13,2026-02,Keyboard,Electronics,110.00,156.15
+136,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50155.0,302.0,,Shipped,Credit Card,90384.0,1015.0,3.0,84.09,20.0,252.27,201.82,,Hoodie,Fashion,55.00,86.48
+137,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50155.0,302.0,,Shipped,Credit Card,90385.0,1005.0,1.0,154.86,0.0,154.86,154.86,,Keyboard,Electronics,110.00,156.15
+138,2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02,50155.0,302.0,,Shipped,Credit Card,90386.0,1018.0,4.0,94.24,0.0,376.96,376.96,,Hair Dryer,Beauty,AED 95.00,99.92
+139,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50025.0,303.0,2026-06-13,Completed,Cash,90055.0,1017.0,1.0,78.79,5.0,78.79,74.85,2026-06,Moisturizer,Beauty,55.00,78.75
+140,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50025.0,303.0,2026-06-13,Completed,Cash,90056.0,1020.0,1.0,372.28,15.0,372.28,316.44,2026-06,Sunscreen,Beauty,260.00,360.04
+141,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50025.0,303.0,2026-06-13,Completed,Cash,90057.0,1022.0,3.0,100.61,5.0,301.83,286.74,2026-06,Resistance Bands,Sports,70.00,"1,250.00"
+142,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50040.0,305.0,2026-01-18,Returned,Apple Pay,90090.0,1001.0,2.0,272.87,0.0,545.74,545.74,2026-01,Wireless Mouse,Electronics,180.00,259.03
+143,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50042.0,301.0,2026-01-30,Completed,Cash,90093.0,1013.0,2.0,35.48,10.0,70.96,63.86,2026-01,Backpack,FASHION,18.00,35.23
+144,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50042.0,301.0,2026-01-30,Completed,Cash,90094.0,1022.0,3.0,97.69,0.0,293.07,293.07,2026-01,Resistance Bands,Sports,70.00,"1,250.00"
+145,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50057.0,302.0,2026-07-29,Returned,Cash,90131.0,1007.0,3.0,33.49,20.0,100.47,80.38,2026-07,Water Bottle,Home,22.00,33.55
+146,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50057.0,302.0,2026-07-29,Returned,Cash,90131.0,1007.0,3.0,33.49,20.0,100.47,80.38,2026-07,Water Bottle,Home,22.00,33.55
+147,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50057.0,302.0,2026-07-29,Returned,Cash,90132.0,1008.0,2.0,191.26,0.0,382.52,382.52,2026-07,Desk Lamp,home ,110.00,201.48
+148,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50168.0,305.0,2026-07-30,Completed,Apple Pay,90421.0,1024.0,4.0,273.2,0.0,1092.8,1092.8,2026-07,Dumbbells,Sports,140.00,288.17
+149,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50168.0,305.0,2026-07-30,Completed,Apple Pay,90422.0,1002.0,1.0,359.88,0.0,359.88,359.88,2026-07,Bluetooth Speaker,Electronics,220.00,345.41
+150,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50168.0,305.0,2026-07-30,Completed,Apple Pay,90423.0,1021.0,1.0,156.65,15.0,156.65,133.15,2026-07,Yoga Mat,Sports,85.00,151.21
+151,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50168.0,305.0,2026-07-30,Completed,Apple Pay,90424.0,1024.0,2.0,276.91,10.0,553.82,498.44,2026-07,Dumbbells,Sports,140.00,288.17
+152,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50177.0,302.0,,Completed,Credit Card,90448.0,1006.0,4.0,99.08,10.0,396.32,356.69,,Air Fryer,Home,70.00,96.28
+153,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50177.0,302.0,,Completed,Credit Card,90449.0,1025.0,4.0,99.78,10.0,399.12,359.21,,Sports Watch,Sports,Unknown,99.65
+154,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50177.0,302.0,,Completed,Credit Card,90450.0,1019.0,1.0,104.14,0.0,104.14,,,Perfume,Beauty,55.00,100.81
+155,2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10,50180.0,307.0,2026-06-16,Completed,Apple Pay,90455.0,1015.0,1.0,89.72,20.0,89.72,71.78,2026-06,Hoodie,Fashion,55.00,86.48
+156,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50041.0,307.0,2026-06-23,Returned,Credit Card,90091.0,1025.0,3.0,97.59,0.0,292.77,292.77,2026-06,Sports Watch,Sports,Unknown,99.65
+157,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50041.0,307.0,2026-06-23,Returned,Credit Card,90092.0,1001.0,4.0,256.87,15.0,1027.48,873.36,2026-06,Wireless Mouse,Electronics,180.00,259.03
+158,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50089.0,304.0,,Completed,Card,90213.0,1006.0,3.0,101.18,20.0,303.54,242.83,,Air Fryer,Home,70.00,96.28
+159,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50089.0,304.0,,Completed,Card,90214.0,1002.0,1.0,326.57,0.0,326.57,326.57,,Bluetooth Speaker,Electronics,220.00,345.41
+160,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50099.0,307.0,2026-06-19,Completed,Card,90244.0,1020.0,3.0,352.97,10.0,1058.91,953.02,2026-06,Sunscreen,Beauty,260.00,360.04
+161,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50099.0,307.0,2026-06-19,Completed,Card,90245.0,1017.0,4.0,79.34,15.0,317.36,269.76,2026-06,Moisturizer,Beauty,55.00,78.75
+162,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50099.0,307.0,2026-06-19,Completed,Card,90246.0,1016.0,1.0,72.55,0.0,72.55,72.55,2026-06,Face Cleanser,Beauty,35.00,74.05
+163,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50099.0,307.0,2026-06-19,Completed,Card,90247.0,1004.0,4.0,40.65,10.0,162.6,146.34,2026-06,Power Bank,Electronics,22.00,41.61
+164,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50109.0,305.0,2026-03-29,Completed,Credit Card,90270.0,1014.0,3.0,57.07,15.0,171.21,145.53,2026-03,Sunglasses,Fashion,30.00,57.26
+165,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50171.0,306.0,,Returned,Credit Card,90431.0,1012.0,3.0,219.04,0.0,657.12,657.12,,Running Shoes,Fashion,140.00,220.16
+166,2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28,50171.0,306.0,,Returned,Credit Card,90432.0,1009.0,4.0,175.28,10.0,701.12,631.01,,Storage Box,Home,110.00,166.00
+167,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50030.0,301.0,2026-04-02,Completed,Cash,90067.0,1011.0,3.0,112.66,0.0,337.98,337.98,2026-04,Cotton T-Shirt,Fashion,70.00,106.84
+168,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50030.0,301.0,2026-04-02,Completed,Cash,90068.0,1022.0,4.0,94.06,0.0,376.24,376.24,2026-04,Resistance Bands,Sports,70.00,"1,250.00"
+169,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50030.0,301.0,2026-04-02,Completed,Cash,90069.0,1003.0,1.0,48.68,5.0,48.68,46.25,2026-04,USB-C Hub, electronics ,35.00,51.16
+170,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50030.0,301.0,2026-04-02,Completed,Cash,90070.0,1024.0,3.0,275.38,20.0,826.14,660.91,2026-04,Dumbbells,Sports,140.00,288.17
+171,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50115.0,308.0,2026-05-22,Pending,Apple Pay,90283.0,1006.0,4.0,95.44,20.0,381.76,305.41,2026-05,Air Fryer,Home,70.00,96.28
+172,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50115.0,308.0,2026-05-22,Pending,Apple Pay,90284.0,1011.0,1.0,109.01,5.0,109.01,103.56,2026-05,Cotton T-Shirt,Fashion,70.00,106.84
+173,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50158.0,308.0,2026-06-10,Shipped,Card,90392.0,1003.0,2.0,49.78,5.0,99.56,94.58,2026-06,USB-C Hub, electronics ,35.00,51.16
+174,2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22,50158.0,308.0,2026-06-10,Shipped,Card,90393.0,1010.0,4.0,326.53,20.0,1306.12,1044.9,2026-06,Coffee Maker,Home,180.00,343.99
+175,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50003.0,301.0,2026-04-10,Completed,Bank Transfer,90002.0,1008.0,1.0,213.05,5.0,213.05,202.4,2026-04,Desk Lamp,home ,110.00,201.48
+176,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50003.0,301.0,2026-04-10,Completed,Bank Transfer,90003.0,1025.0,1.0,95.66,5.0,95.66,90.88,2026-04,Sports Watch,Sports,Unknown,99.65
+177,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50003.0,301.0,2026-04-10,Completed,Bank Transfer,90004.0,1010.0,1.0,336.74,0.0,336.74,336.74,2026-04,Coffee Maker,Home,180.00,343.99
+178,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50037.0,301.0,2026-05-01,Completed,Cash,90084.0,1002.0,2.0,355.96,0.0,711.92,711.92,2026-05,Bluetooth Speaker,Electronics,220.00,345.41
+179,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50073.0,303.0,2026-06-30,Completed,Card,90167.0,1002.0,3.0,326.5,0.0,979.5,979.5,2026-06,Bluetooth Speaker,Electronics,220.00,345.41
+180,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50073.0,303.0,2026-06-30,Completed,Card,90168.0,1007.0,1.0,35.29,0.0,35.29,35.29,2026-06,Water Bottle,Home,22.00,33.55
+181,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50073.0,303.0,2026-06-30,Completed,Card,90168.0,1007.0,1.0,35.29,0.0,35.29,35.29,2026-06,Water Bottle,Home,22.00,33.55
+182,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50073.0,303.0,2026-06-30,Completed,Card,90169.0,1017.0,4.0,79.16,20.0,316.64,253.31,2026-06,Moisturizer,Beauty,55.00,78.75
+183,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50073.0,303.0,2026-06-30,Completed,Card,90170.0,1009.0,1.0,168.93,20.0,168.93,135.14,2026-06,Storage Box,Home,110.00,166.00
+184,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50076.0,301.0,2026-07-15,Pending,Bank Transfer,90176.0,1003.0,4.0,54.2,10.0,216.8,195.12,2026-07,USB-C Hub, electronics ,35.00,51.16
+185,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50076.0,301.0,2026-07-15,Pending,Bank Transfer,90177.0,1006.0,3.0,91.69,0.0,275.07,275.07,2026-07,Air Fryer,Home,70.00,96.28
+186,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50076.0,301.0,2026-07-15,Pending,Bank Transfer,90178.0,1011.0,3.0,106.15,0.0,318.45,318.45,2026-07,Cotton T-Shirt,Fashion,70.00,106.84
+187,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50076.0,301.0,2026-07-15,Pending,Bank Transfer,90179.0,1023.0,4.0,92.67,0.0,370.68,370.68,2026-07,Fitness Bottle,Sports,45.00,90.61
+188,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50172.0,308.0,2026-03-24,Returned,Cash,90433.0,1020.0,4.0,355.4,10.0,1421.6,1279.44,2026-03,Sunscreen,Beauty,260.00,360.04
+189,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50172.0,308.0,2026-03-24,Returned,Cash,90434.0,1004.0,3.0,43.34,0.0,130.02,130.02,2026-03,Power Bank,Electronics,22.00,41.61
+190,2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19,50172.0,308.0,2026-03-24,Returned,Cash,90435.0,1020.0,2.0,367.54,20.0,735.08,588.06,2026-03,Sunscreen,Beauty,260.00,360.04
+191,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50053.0,301.0,2026-03-19,Completed,Cash,90121.0,1013.0,4.0,34.55,20.0,138.2,110.56,2026-03,Backpack,FASHION,18.00,35.23
+192,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50053.0,301.0,2026-03-19,Completed,Cash,90122.0,1020.0,1.0,365.69,20.0,365.69,292.55,2026-03,Sunscreen,Beauty,260.00,360.04
+193,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50053.0,301.0,2026-03-19,Completed,Cash,90123.0,1011.0,1.0,101.64,0.0,101.64,101.64,2026-03,Cotton T-Shirt,Fashion,70.00,106.84
+194,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50114.0,304.0,2026-03-20,Cancelled,Credit Card,90279.0,1005.0,4.0,150.39,0.0,601.56,601.56,2026-03,Keyboard,Electronics,110.00,156.15
+195,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50114.0,304.0,2026-03-20,Cancelled,Credit Card,90280.0,1004.0,3.0,42.76,0.0,128.28,128.28,2026-03,Power Bank,Electronics,22.00,41.61
+196,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50114.0,304.0,2026-03-20,Cancelled,Credit Card,90281.0,1021.0,3.0,145.52,15.0,436.56,371.08,2026-03,Yoga Mat,Sports,85.00,151.21
+197,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50114.0,304.0,2026-03-20,Cancelled,Credit Card,90282.0,1024.0,3.0,0.0,20.0,,,2026-03,Dumbbells,Sports,140.00,288.17
+198,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50127.0,308.0,2026-01-19,Pending,Card,90315.0,1018.0,4.0,96.68,20.0,386.72,309.38,2026-01,Hair Dryer,Beauty,AED 95.00,99.92
+199,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50127.0,308.0,2026-01-19,Pending,Card,90316.0,1015.0,3.0,84.15,0.0,252.45,,2026-01,Hoodie,Fashion,55.00,86.48
+200,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50127.0,308.0,2026-01-19,Pending,Card,90317.0,1024.0,1.0,298.87,0.0,298.87,298.87,2026-01,Dumbbells,Sports,140.00,288.17
+201,2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04,50127.0,308.0,2026-01-19,Pending,Card,90318.0,1014.0,1.0,55.24,0.0,55.24,55.24,2026-01,Sunglasses,Fashion,30.00,57.26
+202,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50074.0,307.0,2026-03-26,Pending,Bank Transfer,90171.0,1012.0,1.0,224.27,20.0,224.27,179.42,2026-03,Running Shoes,Fashion,140.00,220.16
+203,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50074.0,307.0,2026-03-26,Pending,Bank Transfer,90172.0,1009.0,1.0,163.37,20.0,163.37,130.7,2026-03,Storage Box,Home,110.00,166.00
+204,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50074.0,307.0,2026-03-26,Pending,Bank Transfer,90173.0,1013.0,4.0,34.55,5.0,138.2,131.29,2026-03,Backpack,FASHION,18.00,35.23
+205,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50075.0,301.0,2026-02-22,Cancelled,Bank Transfer,90174.0,1016.0,4.0,77.82,0.0,311.28,311.28,2026-02,Face Cleanser,Beauty,35.00,74.05
+206,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50075.0,301.0,2026-02-22,Cancelled,Bank Transfer,90175.0,1017.0,3.0,74.81,20.0,224.43,179.54,2026-02,Moisturizer,Beauty,55.00,78.75
+207,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50151.0,306.0,2026-03-24,Cancelled,Card,90371.0,1025.0,4.0,97.25,0.0,389.0,389.0,2026-03,Sports Watch,Sports,Unknown,99.65
+208,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50151.0,306.0,2026-03-24,Cancelled,Card,90372.0,1019.0,2.0,104.86,10.0,209.72,188.75,2026-03,Perfume,Beauty,55.00,100.81
+209,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50165.0,308.0,2026-05-01,Completed,Bank Transfer,90412.0,1006.0,1.0,101.87,10.0,101.87,91.68,2026-05,Air Fryer,Home,70.00,96.28
+210,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50165.0,308.0,2026-05-01,Completed,Bank Transfer,90413.0,1022.0,4.0,96.91,20.0,387.64,310.11,2026-05,Resistance Bands,Sports,70.00,"1,250.00"
+211,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50165.0,308.0,2026-05-01,Completed,Bank Transfer,90414.0,1014.0,1.0,54.5,0.0,54.5,54.5,2026-05,Sunglasses,Fashion,30.00,57.26
+212,2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17,50179.0,303.0,2026-01-20,Shipped,Apple Pay,90454.0,1015.0,3.0,90.24,0.0,270.72,270.72,2026-01,Hoodie,Fashion,55.00,86.48
+213,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50044.0,306.0,,Returned,Apple Pay,90096.0,1019.0,4.0,99.65,10.0,398.6,358.74,,Perfume,Beauty,55.00,100.81
+214,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50044.0,306.0,,Returned,Apple Pay,90097.0,1021.0,4.0,144.23,0.0,576.92,576.92,,Yoga Mat,Sports,85.00,151.21
+215,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50044.0,306.0,,Returned,Apple Pay,90098.0,1001.0,3.0,268.4,0.0,805.2,805.2,,Wireless Mouse,Electronics,180.00,259.03
+216,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50045.0,302.0,,Pending,Cash,90099.0,1023.0,3.0,89.92,0.0,269.76,269.76,,Fitness Bottle,Sports,45.00,90.61
+217,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50045.0,302.0,,Pending,Cash,90100.0,1004.0,2.0,42.05,0.0,84.1,,,Power Bank,Electronics,22.00,41.61
+218,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50045.0,302.0,,Pending,Cash,90101.0,1017.0,1.0,82.25,5.0,82.25,78.14,,Moisturizer,Beauty,55.00,78.75
+219,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50045.0,302.0,,Pending,Cash,90102.0,1024.0,3.0,282.4,0.0,847.2,847.2,,Dumbbells,Sports,140.00,288.17
+220,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50054.0,306.0,2026-04-30,Shipped,Bank Transfer,90124.0,1010.0,3.0,358.5,15.0,1075.5,914.18,2026-04,Coffee Maker,Home,180.00,343.99
+221,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50054.0,306.0,2026-04-30,Shipped,Bank Transfer,90125.0,1020.0,2.0,341.96,0.0,683.92,683.92,2026-04,Sunscreen,Beauty,260.00,360.04
+222,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50054.0,306.0,2026-04-30,Shipped,Bank Transfer,90126.0,1022.0,2.0,96.66,0.0,193.32,193.32,2026-04,Resistance Bands,Sports,70.00,"1,250.00"
+223,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50054.0,306.0,2026-04-30,Shipped,Bank Transfer,90127.0,1021.0,4.0,152.93,0.0,611.72,611.72,2026-04,Yoga Mat,Sports,85.00,151.21
+224,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50080.0,308.0,2026-01-08,Shipped,Apple Pay,90187.0,1012.0,4.0,208.98,20.0,835.92,668.74,2026-01,Running Shoes,Fashion,140.00,220.16
+225,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50080.0,308.0,2026-01-08,Shipped,Apple Pay,90188.0,1005.0,3.0,152.67,5.0,458.01,435.11,2026-01,Keyboard,Electronics,110.00,156.15
+226,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50080.0,308.0,2026-01-08,Shipped,Apple Pay,90189.0,1009.0,2.0,156.56,0.0,313.12,313.12,2026-01,Storage Box,Home,110.00,166.00
+227,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50116.0,306.0,2026-04-01,Cancelled,Bank Transfer,90285.0,1005.0,4.0,164.32,0.0,657.28,657.28,2026-04,Keyboard,Electronics,110.00,156.15
+228,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50116.0,306.0,2026-04-01,Cancelled,Bank Transfer,90286.0,1001.0,3.0,250.81,5.0,752.43,714.81,2026-04,Wireless Mouse,Electronics,180.00,259.03
+229,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50132.0,305.0,2026-05-26,Pending,Card,90326.0,1002.0,3.0,352.51,15.0,1057.53,898.9,2026-05,Bluetooth Speaker,Electronics,220.00,345.41
+230,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50132.0,305.0,2026-05-26,Pending,Card,90327.0,1017.0,3.0,77.96,15.0,233.88,198.8,2026-05,Moisturizer,Beauty,55.00,78.75
+231,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50132.0,305.0,2026-05-26,Pending,Card,90328.0,1005.0,3.0,150.23,5.0,450.69,428.16,2026-05,Keyboard,Electronics,110.00,156.15
+232,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50132.0,305.0,2026-05-26,Pending,Card,90329.0,1018.0,4.0,104.11,0.0,416.44,416.44,2026-05,Hair Dryer,Beauty,AED 95.00,99.92
+233,2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04,50150.0,308.0,2026-01-24,Shipped,Apple Pay,90370.0,1006.0,3.0,101.61,0.0,304.83,304.83,2026-01,Air Fryer,Home,70.00,96.28
+234,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50018.0,305.0,,Returned,Credit Card,90041.0,1015.0,4.0,90.17,0.0,360.68,360.68,,Hoodie,Fashion,55.00,86.48
+235,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50018.0,305.0,,Returned,Credit Card,90042.0,1004.0,3.0,43.62,10.0,130.86,117.77,,Power Bank,Electronics,22.00,41.61
+236,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50113.0,301.0,2026-01-24,Completed,Cash,90278.0,1011.0,3.0,113.11,5.0,339.33,322.36,2026-01,Cotton T-Shirt,Fashion,70.00,106.84
+237,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50131.0,308.0,2026-03-18,Returned,Credit Card,90323.0,1019.0,3.0,0.0,0.0,,,2026-03,Perfume,Beauty,55.00,100.81
+238,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50131.0,308.0,2026-03-18,Returned,Credit Card,90324.0,1005.0,2.0,152.41,5.0,304.82,289.58,2026-03,Keyboard,Electronics,110.00,156.15
+239,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50131.0,308.0,2026-03-18,Returned,Credit Card,90325.0,1002.0,2.0,352.82,15.0,705.64,599.79,2026-03,Bluetooth Speaker,Electronics,220.00,345.41
+240,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50136.0,308.0,2026-03-16,Completed,Cash,90338.0,1024.0,4.0,294.93,0.0,1179.72,1179.72,2026-03,Dumbbells,Sports,140.00,288.17
+241,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50160.0,308.0,2026-02-01,Completed,Credit Card,90397.0,1015.0,3.0,89.75,5.0,269.25,255.79,2026-02,Hoodie,Fashion,55.00,86.48
+242,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50160.0,308.0,2026-02-01,Completed,Credit Card,90398.0,1021.0,2.0,147.96,0.0,295.92,295.92,2026-02,Yoga Mat,Sports,85.00,151.21
+243,2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17,50160.0,308.0,2026-02-01,Completed,Credit Card,90399.0,1023.0,2.0,88.59,5.0,177.18,168.32,2026-02,Fitness Bottle,Sports,45.00,90.61
+244,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50014.0,306.0,2026-07-12,Completed,Card,90030.0,1018.0,1.0,98.34,5.0,98.34,93.42,2026-07,Hair Dryer,Beauty,AED 95.00,99.92
+245,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50014.0,306.0,2026-07-12,Completed,Card,90031.0,1024.0,3.0,284.06,10.0,852.18,766.96,2026-07,Dumbbells,Sports,140.00,288.17
+246,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50014.0,306.0,2026-07-12,Completed,Card,90032.0,1021.0,3.0,154.38,0.0,463.14,463.14,2026-07,Yoga Mat,Sports,85.00,151.21
+247,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50015.0,302.0,2026-01-19,Pending,Cash,90033.0,1001.0,3.0,250.37,10.0,751.11,676.0,2026-01,Wireless Mouse,Electronics,180.00,259.03
+248,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50015.0,302.0,2026-01-19,Pending,Cash,90034.0,1003.0,4.0,49.95,15.0,199.8,169.83,2026-01,USB-C Hub, electronics ,35.00,51.16
+249,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50015.0,302.0,2026-01-19,Pending,Cash,90035.0,1014.0,1.0,54.14,0.0,54.14,54.14,2026-01,Sunglasses,Fashion,30.00,57.26
+250,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50015.0,302.0,2026-01-19,Pending,Cash,90036.0,1002.0,3.0,0.0,5.0,,,2026-01,Bluetooth Speaker,Electronics,220.00,345.41
+251,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50064.0,301.0,2026-05-23,Completed,Card,90149.0,1023.0,3.0,86.76,20.0,260.28,208.22,2026-05,Fitness Bottle,Sports,45.00,90.61
+252,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50065.0,303.0,2026-07-25,Shipped,Credit Card,90150.0,1010.0,4.0,357.66,15.0,1430.64,1216.04,2026-07,Coffee Maker,Home,180.00,343.99
+253,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50157.0,307.0,2026-01-14,Completed,Credit Card,90390.0,1019.0,2.0,99.37,15.0,198.74,168.93,2026-01,Perfume,Beauty,55.00,100.81
+254,2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03,50157.0,307.0,2026-01-14,Completed,Credit Card,90391.0,1005.0,3.0,151.81,0.0,455.43,455.43,2026-01,Keyboard,Electronics,110.00,156.15
+255,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50002.0,304.0,2026-04-13,Completed,Cash,90001.0,1020.0,1.0,365.71,0.0,365.71,365.71,2026-04,Sunscreen,Beauty,260.00,360.04
+256,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50008.0,303.0,2026-01-15,Pending,Card,90013.0,1023.0,3.0,94.36,5.0,283.08,268.93,2026-01,Fitness Bottle,Sports,45.00,90.61
+257,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50008.0,303.0,2026-01-15,Pending,Card,90014.0,1007.0,4.0,33.48,20.0,133.92,107.14,2026-01,Water Bottle,Home,22.00,33.55
+258,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50008.0,303.0,2026-01-15,Pending,Card,90014.0,1007.0,4.0,33.48,20.0,133.92,107.14,2026-01,Water Bottle,Home,22.00,33.55
+259,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50008.0,303.0,2026-01-15,Pending,Card,90015.0,1008.0,4.0,198.07,10.0,792.28,713.05,2026-01,Desk Lamp,home ,110.00,201.48
+260,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50008.0,303.0,2026-01-15,Pending,Card,90016.0,1010.0,3.0,363.72,0.0,1091.16,1091.16,2026-01,Coffee Maker,Home,180.00,343.99
+261,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50077.0,301.0,2026-04-01,Completed,Bank Transfer,90180.0,1015.0,1.0,90.32,15.0,90.32,76.77,2026-04,Hoodie,Fashion,55.00,86.48
+262,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50077.0,301.0,2026-04-01,Completed,Bank Transfer,90181.0,1012.0,4.0,223.84,0.0,895.36,895.36,2026-04,Running Shoes,Fashion,140.00,220.16
+263,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50077.0,301.0,2026-04-01,Completed,Bank Transfer,90182.0,1002.0,1.0,351.11,0.0,351.11,,2026-04,Bluetooth Speaker,Electronics,220.00,345.41
+264,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50088.0,301.0,2026-07-11,Completed,Card,90211.0,1021.0,3.0,153.48,0.0,460.44,460.44,2026-07,Yoga Mat,Sports,85.00,151.21
+265,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50088.0,301.0,2026-07-11,Completed,Card,90212.0,1020.0,1.0,366.13,10.0,366.13,329.52,2026-07,Sunscreen,Beauty,260.00,360.04
+266,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50125.0,308.0,2026-03-29,Completed,Credit Card,90310.0,1015.0,4.0,82.12,5.0,328.48,312.06,2026-03,Hoodie,Fashion,55.00,86.48
+267,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50125.0,308.0,2026-03-29,Completed,Credit Card,90311.0,1022.0,2.0,103.19,15.0,206.38,175.42,2026-03,Resistance Bands,Sports,70.00,"1,250.00"
+268,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50125.0,308.0,2026-03-29,Completed,Credit Card,90312.0,1004.0,2.0,41.08,0.0,82.16,,2026-03,Power Bank,Electronics,22.00,41.61
+269,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50125.0,308.0,2026-03-29,Completed,Credit Card,90313.0,1005.0,2.0,146.85,20.0,293.7,234.96,2026-03,Keyboard,Electronics,110.00,156.15
+270,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50149.0,308.0,2026-03-13,Cancelled,Credit Card,90368.0,1007.0,4.0,31.72,0.0,126.88,126.88,2026-03,Water Bottle,Home,22.00,33.55
+271,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50149.0,308.0,2026-03-13,Cancelled,Credit Card,90368.0,1007.0,4.0,31.72,0.0,126.88,126.88,2026-03,Water Bottle,Home,22.00,33.55
+272,2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13,50149.0,308.0,2026-03-13,Cancelled,Credit Card,90369.0,1003.0,3.0,51.55,10.0,154.65,139.18,2026-03,USB-C Hub, electronics ,35.00,51.16
+273,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50070.0,304.0,2026-03-12,Shipped,Card,90162.0,1012.0,1.0,213.32,0.0,213.32,213.32,2026-03,Running Shoes,Fashion,140.00,220.16
+274,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50112.0,304.0,2026-06-26,Cancelled,Bank Transfer,90276.0,1002.0,4.0,345.22,20.0,1380.88,1104.7,2026-06,Bluetooth Speaker,Electronics,220.00,345.41
+275,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50112.0,304.0,2026-06-26,Cancelled,Bank Transfer,90277.0,1024.0,3.0,271.2,0.0,813.6,813.6,2026-06,Dumbbells,Sports,140.00,288.17
+276,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50164.0,305.0,2026-05-11,Cancelled,Apple Pay,90408.0,1013.0,1.0,37.3,5.0,37.3,35.43,2026-05,Backpack,FASHION,18.00,35.23
+277,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50164.0,305.0,2026-05-11,Cancelled,Apple Pay,90409.0,1016.0,4.0,74.11,10.0,296.44,266.8,2026-05,Face Cleanser,Beauty,35.00,74.05
+278,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50164.0,305.0,2026-05-11,Cancelled,Apple Pay,90410.0,1023.0,4.0,85.57,10.0,342.28,308.05,2026-05,Fitness Bottle,Sports,45.00,90.61
+279,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50164.0,305.0,2026-05-11,Cancelled,Apple Pay,90411.0,1012.0,1.0,227.27,0.0,227.27,227.27,2026-05,Running Shoes,Fashion,140.00,220.16
+280,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50176.0,301.0,2026-02-02,Pending,Credit Card,90444.0,1018.0,4.0,102.13,5.0,408.52,388.09,2026-02,Hair Dryer,Beauty,AED 95.00,99.92
+281,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50176.0,301.0,2026-02-02,Pending,Credit Card,90445.0,1014.0,4.0,54.97,5.0,219.88,208.89,2026-02,Sunglasses,Fashion,30.00,57.26
+282,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50176.0,301.0,2026-02-02,Pending,Credit Card,90446.0,1019.0,1.0,0.0,20.0,,,2026-02,Perfume,Beauty,55.00,100.81
+283,2032,Tarek Hassan,not_provided,Dubai,2026-01-02,50176.0,301.0,2026-02-02,Pending,Credit Card,90447.0,1010.0,1.0,332.63,0.0,332.63,332.63,2026-02,Coffee Maker,Home,180.00,343.99
+284,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50016.0,305.0,2026-02-03,Completed,Card,90037.0,1018.0,2.0,99.36,5.0,198.72,188.78,2026-02,Hair Dryer,Beauty,AED 95.00,99.92
+285,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50016.0,305.0,2026-02-03,Completed,Card,90038.0,1022.0,4.0,101.79,10.0,407.16,366.44,2026-02,Resistance Bands,Sports,70.00,"1,250.00"
+286,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50023.0,308.0,,Returned,Card,90052.0,1019.0,3.0,96.87,0.0,290.61,290.61,,Perfume,Beauty,55.00,100.81
+287,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50023.0,308.0,,Returned,Card,90053.0,1002.0,2.0,342.13,15.0,684.26,581.62,,Bluetooth Speaker,Electronics,220.00,345.41
+288,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50100.0,306.0,,Returned,Bank Transfer,90248.0,1020.0,4.0,380.22,0.0,1520.88,1520.88,,Sunscreen,Beauty,260.00,360.04
+289,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50144.0,308.0,,Completed,Credit Card,90356.0,1018.0,4.0,94.13,0.0,376.52,376.52,,Hair Dryer,Beauty,AED 95.00,99.92
+290,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50167.0,303.0,2026-01-18,Completed,Bank Transfer,90417.0,1004.0,3.0,43.71,5.0,131.13,124.57,2026-01,Power Bank,Electronics,22.00,41.61
+291,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50167.0,303.0,2026-01-18,Completed,Bank Transfer,90418.0,1003.0,1.0,53.87,0.0,53.87,,2026-01,USB-C Hub, electronics ,35.00,51.16
+292,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50167.0,303.0,2026-01-18,Completed,Bank Transfer,90419.0,1005.0,3.0,153.21,0.0,459.63,459.63,2026-01,Keyboard,Electronics,110.00,156.15
+293,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50167.0,303.0,2026-01-18,Completed,Bank Transfer,90420.0,1007.0,4.0,33.45,0.0,133.8,133.8,2026-01,Water Bottle,Home,22.00,33.55
+294,2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01,50167.0,303.0,2026-01-18,Completed,Bank Transfer,90420.0,1007.0,4.0,33.45,0.0,133.8,133.8,2026-01,Water Bottle,Home,22.00,33.55
+295,2034,Malak Ali,malak.ali94@example.com,Dubai,2026-07-10,50047.0,304.0,2026-04-04,Shipped,Card,90105.0,1008.0,1.0,195.58,0.0,195.58,195.58,2026-04,Desk Lamp,home ,110.00,201.48
+296,2034,Malak Ali,malak.ali94@example.com,Dubai,2026-07-10,50047.0,304.0,2026-04-04,Shipped,Card,90106.0,1006.0,2.0,99.27,20.0,198.54,158.83,2026-04,Air Fryer,Home,70.00,96.28
+297,2035,Tarek Ali,tarek.ali95@example.com,Ras Al Khaimah,2026-07-28,50028.0,301.0,2026-04-05,Pending,Credit Card,90060.0,1020.0,2.0,343.89,0.0,687.78,687.78,2026-04,Sunscreen,Beauty,260.00,360.04
+298,2035,Tarek Ali,tarek.ali95@example.com,Ras Al Khaimah,2026-07-28,50028.0,301.0,2026-04-05,Pending,Credit Card,90061.0,1020.0,3.0,381.41,5.0,1144.23,1087.02,2026-04,Sunscreen,Beauty,260.00,360.04
+299,2035,Tarek Ali,tarek.ali95@example.com,Ras Al Khaimah,2026-07-28,50028.0,301.0,2026-04-05,Pending,Credit Card,90062.0,1017.0,3.0,78.8,5.0,236.4,224.58,2026-04,Moisturizer,Beauty,55.00,78.75
+300,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50027.0,301.0,2026-01-29,Completed,Cash,90059.0,1016.0,4.0,77.6,0.0,310.4,310.4,2026-01,Face Cleanser,Beauty,35.00,74.05
+301,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50066.0,306.0,2026-07-13,Shipped,Credit Card,90151.0,1015.0,1.0,81.49,0.0,81.49,81.49,2026-07,Hoodie,Fashion,55.00,86.48
+302,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50066.0,306.0,2026-07-13,Shipped,Credit Card,90152.0,1007.0,2.0,35.32,10.0,70.64,63.58,2026-07,Water Bottle,Home,22.00,33.55
+303,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50066.0,306.0,2026-07-13,Shipped,Credit Card,90152.0,1007.0,2.0,35.32,10.0,70.64,63.58,2026-07,Water Bottle,Home,22.00,33.55
+304,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50066.0,306.0,2026-07-13,Shipped,Credit Card,90153.0,1020.0,4.0,371.97,0.0,1487.88,,2026-07,Sunscreen,Beauty,260.00,360.04
+305,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50066.0,306.0,2026-07-13,Shipped,Credit Card,90154.0,1008.0,3.0,190.55,0.0,571.65,571.65,2026-07,Desk Lamp,home ,110.00,201.48
+306,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50123.0,305.0,2026-06-28,Completed,Bank Transfer,90305.0,1024.0,2.0,273.41,10.0,546.82,492.14,2026-06,Dumbbells,Sports,140.00,288.17
+307,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50135.0,302.0,2026-02-10,Completed,Bank Transfer,90336.0,1016.0,2.0,77.67,20.0,155.34,124.27,2026-02,Face Cleanser,Beauty,35.00,74.05
+308,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50135.0,302.0,2026-02-10,Completed,Bank Transfer,90337.0,1010.0,1.0,362.04,0.0,362.04,362.04,2026-02,Coffee Maker,Home,180.00,343.99
+309,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50162.0,301.0,2026-05-22,Shipped,Card,90404.0,1024.0,4.0,278.13,15.0,1112.52,945.64,2026-05,Dumbbells,Sports,140.00,288.17
+310,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50166.0,303.0,,Completed,Credit Card,90415.0,1017.0,2.0,77.56,5.0,155.12,147.36,,Moisturizer,Beauty,55.00,78.75
+311,2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01,50166.0,303.0,,Completed,Credit Card,90416.0,1015.0,2.0,91.64,0.0,183.28,183.28,,Hoodie,Fashion,55.00,86.48
+312,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50096.0,307.0,2026-04-12,Cancelled,Cash,90234.0,1025.0,4.0,94.21,0.0,376.84,376.84,2026-04,Sports Watch,Sports,Unknown,99.65
+313,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50096.0,307.0,2026-04-12,Cancelled,Cash,90235.0,1002.0,2.0,347.62,0.0,695.24,695.24,2026-04,Bluetooth Speaker,Electronics,220.00,345.41
+314,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50096.0,307.0,2026-04-12,Cancelled,Cash,90236.0,1003.0,4.0,50.86,10.0,203.44,183.1,2026-04,USB-C Hub, electronics ,35.00,51.16
+315,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50107.0,307.0,2026-03-28,Completed,Bank Transfer,90263.0,1013.0,3.0,36.52,20.0,109.56,87.65,2026-03,Backpack,FASHION,18.00,35.23
+316,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50107.0,307.0,2026-03-28,Completed,Bank Transfer,90264.0,1010.0,1.0,362.78,0.0,362.78,362.78,2026-03,Coffee Maker,Home,180.00,343.99
+317,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50107.0,307.0,2026-03-28,Completed,Bank Transfer,90265.0,1003.0,3.0,52.12,5.0,156.36,148.54,2026-03,USB-C Hub, electronics ,35.00,51.16
+318,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50107.0,307.0,2026-03-28,Completed,Bank Transfer,90266.0,1024.0,4.0,277.87,0.0,1111.48,1111.48,2026-03,Dumbbells,Sports,140.00,288.17
+319,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50148.0,301.0,2026-07-15,Returned,Cash,90366.0,1003.0,4.0,50.75,20.0,203.0,162.4,2026-07,USB-C Hub, electronics ,35.00,51.16
+320,2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28,50148.0,301.0,2026-07-15,Returned,Cash,90367.0,1011.0,1.0,112.21,10.0,112.21,100.99,2026-07,Cotton T-Shirt,Fashion,70.00,106.84
+321,2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03,50043.0,305.0,2026-01-10,Completed,Credit Card,90095.0,1014.0,1.0,60.15,5.0,60.15,57.14,2026-01,Sunglasses,Fashion,30.00,57.26
+322,2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03,50147.0,301.0,2026-07-15,Cancelled,Apple Pay,90362.0,1019.0,2.0,97.49,15.0,194.98,165.73,2026-07,Perfume,Beauty,55.00,100.81
+323,2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03,50147.0,301.0,2026-07-15,Cancelled,Apple Pay,90363.0,1022.0,1.0,104.75,15.0,104.75,89.04,2026-07,Resistance Bands,Sports,70.00,"1,250.00"
+324,2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03,50147.0,301.0,2026-07-15,Cancelled,Apple Pay,90364.0,1021.0,1.0,0.0,0.0,,,2026-07,Yoga Mat,Sports,85.00,151.21
+325,2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03,50147.0,301.0,2026-07-15,Cancelled,Apple Pay,90365.0,1013.0,4.0,35.81,0.0,143.24,,2026-07,Backpack,FASHION,18.00,35.23
+326,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50094.0,302.0,2026-07-19,Returned,Credit Card,90226.0,1008.0,2.0,197.31,20.0,394.62,315.7,2026-07,Desk Lamp,home ,110.00,201.48
+327,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50094.0,302.0,2026-07-19,Returned,Credit Card,90227.0,1019.0,3.0,103.99,0.0,311.97,311.97,2026-07,Perfume,Beauty,55.00,100.81
+328,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50094.0,302.0,2026-07-19,Returned,Credit Card,90228.0,1016.0,4.0,77.42,5.0,309.68,294.2,2026-07,Face Cleanser,Beauty,35.00,74.05
+329,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50094.0,302.0,2026-07-19,Returned,Credit Card,90229.0,1016.0,1.0,78.01,0.0,78.01,78.01,2026-07,Face Cleanser,Beauty,35.00,74.05
+330,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50130.0,304.0,,Pending,Bank Transfer,90321.0,1025.0,1.0,99.7,0.0,99.7,99.7,,Sports Watch,Sports,Unknown,99.65
+331,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50130.0,304.0,,Pending,Bank Transfer,90322.0,1010.0,2.0,361.18,20.0,722.36,577.89,,Coffee Maker,Home,180.00,343.99
+332,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50142.0,305.0,2026-04-23,Completed,Bank Transfer,90353.0,1021.0,2.0,154.97,0.0,309.94,309.94,2026-04,Yoga Mat,Sports,85.00,151.21
+333,2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21,50142.0,305.0,2026-04-23,Completed,Bank Transfer,90354.0,1001.0,2.0,257.66,10.0,515.32,463.79,2026-04,Wireless Mouse,Electronics,180.00,259.03
+334,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50060.0,302.0,2026-04-27,Shipped,Credit Card,90136.0,1012.0,2.0,223.08,5.0,446.16,423.85,2026-04,Running Shoes,Fashion,140.00,220.16
+335,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50060.0,302.0,2026-04-27,Shipped,Credit Card,90137.0,1025.0,4.0,100.06,0.0,400.24,400.24,2026-04,Sports Watch,Sports,Unknown,99.65
+336,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50060.0,302.0,2026-04-27,Shipped,Credit Card,90138.0,1010.0,4.0,331.36,20.0,1325.44,1060.35,2026-04,Coffee Maker,Home,180.00,343.99
+337,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50060.0,302.0,2026-04-27,Shipped,Credit Card,90139.0,1022.0,4.0,102.11,5.0,408.44,388.02,2026-04,Resistance Bands,Sports,70.00,"1,250.00"
+338,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50091.0,303.0,2026-03-03,Completed,Bank Transfer,90218.0,1008.0,4.0,200.36,0.0,801.44,801.44,2026-03,Desk Lamp,home ,110.00,201.48
+339,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50091.0,303.0,2026-03-03,Completed,Bank Transfer,90219.0,1023.0,1.0,89.95,0.0,89.95,89.95,2026-03,Fitness Bottle,Sports,45.00,90.61
+340,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50091.0,303.0,2026-03-03,Completed,Bank Transfer,90220.0,1016.0,4.0,72.63,0.0,290.52,290.52,2026-03,Face Cleanser,Beauty,35.00,74.05
+341,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50091.0,303.0,2026-03-03,Completed,Bank Transfer,90221.0,1005.0,3.0,160.24,20.0,480.72,384.58,2026-03,Keyboard,Electronics,110.00,156.15
+342,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50133.0,302.0,,Completed,Cash,90330.0,1023.0,2.0,90.21,20.0,180.42,144.34,,Fitness Bottle,Sports,45.00,90.61
+343,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50133.0,302.0,,Completed,Cash,90331.0,1002.0,4.0,347.78,5.0,1391.12,1321.56,,Bluetooth Speaker,Electronics,220.00,345.41
+344,2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17,50133.0,302.0,,Completed,Cash,90332.0,1005.0,4.0,151.56,0.0,606.24,606.24,,Keyboard,Electronics,110.00,156.15
+345,2041,Sara Saeed,sara.saeed4@example.com,Abu Dhabi,2025-08-02,50102.0,308.0,2026-07-01,Completed,Bank Transfer,90251.0,1002.0,1.0,325.47,0.0,325.47,325.47,2026-07,Bluetooth Speaker,Electronics,220.00,345.41
+346,2041,Sara Saeed,sara.saeed4@example.com,Abu Dhabi,2025-08-02,50102.0,308.0,2026-07-01,Completed,Bank Transfer,90252.0,1011.0,4.0,105.72,0.0,422.88,422.88,2026-07,Cotton T-Shirt,Fashion,70.00,106.84
+347,2042,Hana Hassan,hana.hassan5@example.com,Ras Al Khaimah,2026-04-10,,,,,,,,,,,,,,,,,
+348,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50005.0,308.0,2026-02-09,Completed,Apple Pay,90006.0,1017.0,4.0,80.47,10.0,321.88,289.69,2026-02,Moisturizer,Beauty,55.00,78.75
+349,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50005.0,308.0,2026-02-09,Completed,Apple Pay,90007.0,1006.0,2.0,91.42,0.0,182.84,182.84,2026-02,Air Fryer,Home,70.00,96.28
+350,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50012.0,306.0,,Completed,Apple Pay,90025.0,1017.0,3.0,75.58,20.0,226.74,181.39,,Moisturizer,Beauty,55.00,78.75
+351,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50012.0,306.0,,Completed,Apple Pay,90026.0,1016.0,3.0,77.34,15.0,232.02,197.22,,Face Cleanser,Beauty,35.00,74.05
+352,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50012.0,306.0,,Completed,Apple Pay,90027.0,1004.0,4.0,39.82,0.0,159.28,159.28,,Power Bank,Electronics,22.00,41.61
+353,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50031.0,302.0,2026-04-01,Returned,Credit Card,90071.0,1019.0,3.0,96.24,15.0,288.72,245.41,2026-04,Perfume,Beauty,55.00,100.81
+354,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50048.0,306.0,2026-06-09,Completed,Card,90107.0,1006.0,4.0,99.22,5.0,396.88,377.04,2026-06,Air Fryer,Home,70.00,96.28
+355,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50056.0,302.0,,Pending,Credit Card,90129.0,1022.0,1.0,100.93,15.0,100.93,85.79,,Resistance Bands,Sports,70.00,"1,250.00"
+356,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50056.0,302.0,,Pending,Credit Card,90130.0,1017.0,3.0,77.45,0.0,232.35,232.35,,Moisturizer,Beauty,55.00,78.75
+357,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50081.0,307.0,2026-07-05,Completed,Bank Transfer,90190.0,1016.0,4.0,70.65,10.0,282.6,254.34,2026-07,Face Cleanser,Beauty,35.00,74.05
+358,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50081.0,307.0,2026-07-05,Completed,Bank Transfer,90191.0,1025.0,3.0,99.01,15.0,297.03,252.48,2026-07,Sports Watch,Sports,Unknown,99.65
+359,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50092.0,302.0,2026-05-25,Completed,Bank Transfer,90222.0,1013.0,2.0,34.68,20.0,69.36,55.49,2026-05,Backpack,FASHION,18.00,35.23
+360,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50092.0,302.0,2026-05-25,Completed,Bank Transfer,90223.0,1018.0,1.0,96.82,0.0,96.82,96.82,2026-05,Hair Dryer,Beauty,AED 95.00,99.92
+361,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50092.0,302.0,2026-05-25,Completed,Bank Transfer,90224.0,1004.0,3.0,40.35,5.0,121.05,115.0,2026-05,Power Bank,Electronics,22.00,41.61
+362,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50139.0,304.0,2026-04-19,Completed,Credit Card,90344.0,1012.0,3.0,208.16,5.0,624.48,593.26,2026-04,Running Shoes,Fashion,140.00,220.16
+363,2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04,50139.0,304.0,2026-04-19,Completed,Credit Card,90345.0,1008.0,2.0,195.7,0.0,391.4,391.4,2026-04,Desk Lamp,home ,110.00,201.48
+364,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50010.0,304.0,2026-04-14,Completed,Credit Card,90021.0,1021.0,1.0,153.87,15.0,153.87,130.79,2026-04,Yoga Mat,Sports,85.00,151.21
+365,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50010.0,304.0,2026-04-14,Completed,Credit Card,90022.0,1010.0,4.0,347.27,0.0,1389.08,1389.08,2026-04,Coffee Maker,Home,180.00,343.99
+366,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50052.0,303.0,,Pending,Apple Pay,90118.0,1023.0,1.0,0.0,10.0,,,,Fitness Bottle,Sports,45.00,90.61
+367,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50052.0,303.0,,Pending,Apple Pay,90119.0,1002.0,2.0,342.83,15.0,685.66,582.81,,Bluetooth Speaker,Electronics,220.00,345.41
+368,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50052.0,303.0,,Pending,Apple Pay,90120.0,1015.0,2.0,85.16,0.0,170.32,170.32,,Hoodie,Fashion,55.00,86.48
+369,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50055.0,304.0,2026-05-11,Shipped,Cash,90128.0,1010.0,4.0,356.03,15.0,1424.12,1210.5,2026-05,Coffee Maker,Home,180.00,343.99
+370,2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31,50058.0,305.0,2026-02-27,Returned,Cash,90133.0,1017.0,1.0,77.21,15.0,77.21,65.63,2026-02,Moisturizer,Beauty,55.00,78.75
+371,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50093.0,305.0,2026-07-16,Completed,Cash,90225.0,1002.0,3.0,360.5,5.0,1081.5,1027.42,2026-07,Bluetooth Speaker,Electronics,220.00,345.41
+372,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50110.0,305.0,2026-05-23,Completed,Credit Card,90271.0,1001.0,2.0,263.78,5.0,527.56,501.18,2026-05,Wireless Mouse,Electronics,180.00,259.03
+373,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50110.0,305.0,2026-05-23,Completed,Credit Card,90272.0,1016.0,4.0,71.38,15.0,285.52,242.69,2026-05,Face Cleanser,Beauty,35.00,74.05
+374,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50143.0,305.0,2026-06-29,Shipped,Apple Pay,90355.0,1020.0,4.0,359.52,15.0,1438.08,1222.37,2026-06,Sunscreen,Beauty,260.00,360.04
+375,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50173.0,304.0,,Shipped,Cash,90436.0,1020.0,1.0,344.22,15.0,344.22,292.59,,Sunscreen,Beauty,260.00,360.04
+376,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50173.0,304.0,,Shipped,Cash,90437.0,1004.0,2.0,39.7,0.0,79.4,79.4,,Power Bank,Electronics,22.00,41.61
+377,2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17,50173.0,304.0,,Shipped,Cash,90438.0,1012.0,2.0,217.21,10.0,434.42,390.98,,Running Shoes,Fashion,140.00,220.16
+378,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50022.0,306.0,2026-02-22,Cancelled,Apple Pay,90050.0,1018.0,3.0,96.02,20.0,288.06,230.45,2026-02,Hair Dryer,Beauty,AED 95.00,99.92
+379,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50022.0,306.0,2026-02-22,Cancelled,Apple Pay,90051.0,1022.0,1.0,93.15,0.0,93.15,93.15,2026-02,Resistance Bands,Sports,70.00,"1,250.00"
+380,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50071.0,305.0,2026-03-02,Completed,Apple Pay,90163.0,1025.0,3.0,94.2,0.0,282.6,282.6,2026-03,Sports Watch,Sports,Unknown,99.65
+381,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50175.0,307.0,2026-04-09,Completed,Cash,90441.0,1005.0,2.0,162.56,0.0,325.12,325.12,2026-04,Keyboard,Electronics,110.00,156.15
+382,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50175.0,307.0,2026-04-09,Completed,Cash,90442.0,1020.0,1.0,353.95,20.0,353.95,283.16,2026-04,Sunscreen,Beauty,260.00,360.04
+383,2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20,50175.0,307.0,2026-04-09,Completed,Cash,90443.0,1001.0,4.0,249.55,0.0,998.2,998.2,2026-04,Wireless Mouse,Electronics,180.00,259.03
+384,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50049.0,305.0,2026-05-10,Completed,Bank Transfer,90108.0,1022.0,3.0,104.5,20.0,313.5,250.8,2026-05,Resistance Bands,Sports,70.00,"1,250.00"
+385,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50049.0,305.0,2026-05-10,Completed,Bank Transfer,90109.0,1011.0,2.0,101.31,5.0,202.62,192.49,2026-05,Cotton T-Shirt,Fashion,70.00,106.84
+386,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50049.0,305.0,2026-05-10,Completed,Bank Transfer,90110.0,1015.0,3.0,84.14,20.0,252.42,201.94,2026-05,Hoodie,Fashion,55.00,86.48
+387,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50049.0,305.0,2026-05-10,Completed,Bank Transfer,90111.0,1002.0,3.0,327.76,10.0,983.28,884.95,2026-05,Bluetooth Speaker,Electronics,220.00,345.41
+388,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50118.0,304.0,2026-03-22,Completed,Credit Card,90290.0,1006.0,4.0,96.31,15.0,385.24,327.45,2026-03,Air Fryer,Home,70.00,96.28
+389,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50118.0,304.0,2026-03-22,Completed,Credit Card,90291.0,1023.0,3.0,86.45,15.0,259.35,220.45,2026-03,Fitness Bottle,Sports,45.00,90.61
+390,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50118.0,304.0,2026-03-22,Completed,Credit Card,90292.0,1010.0,3.0,332.47,10.0,997.41,897.67,2026-03,Coffee Maker,Home,180.00,343.99
+391,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50169.0,305.0,2026-05-31,Pending,Bank Transfer,90425.0,1011.0,4.0,103.4,5.0,413.6,392.92,2026-05,Cotton T-Shirt,Fashion,70.00,106.84
+392,2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06,50169.0,305.0,2026-05-31,Pending,Bank Transfer,90426.0,1013.0,2.0,35.82,0.0,71.64,71.64,2026-05,Backpack,FASHION,18.00,35.23
+393,2048,Malak Adel,malak.adel11@example.com,Ajman,2025-11-02,50026.0,308.0,2026-05-22,Cancelled,Bank Transfer,90058.0,1002.0,4.0,341.33,20.0,1365.32,1092.26,2026-05,Bluetooth Speaker,Electronics,220.00,345.41
+394,2048,Malak Adel,malak.adel11@example.com,Ajman,2025-11-02,50068.0,308.0,2026-04-26,Completed,Cash,90159.0,1022.0,1.0,0.0,10.0,,,2026-04,Resistance Bands,Sports,70.00,"1,250.00"
+395,2048,Malak Adel,malak.adel11@example.com,Ajman,2025-11-02,50068.0,308.0,2026-04-26,Completed,Cash,90160.0,1003.0,1.0,53.45,5.0,53.45,50.78,2026-04,USB-C Hub, electronics ,35.00,51.16
+396,2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18,50090.0,301.0,2026-03-05,Completed,Card,90215.0,1021.0,2.0,152.52,20.0,305.04,244.03,2026-03,Yoga Mat,Sports,85.00,151.21
+397,2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18,50090.0,301.0,2026-03-05,Completed,Card,90216.0,1020.0,1.0,376.85,5.0,376.85,358.01,2026-03,Sunscreen,Beauty,260.00,360.04
+398,2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18,50090.0,301.0,2026-03-05,Completed,Card,90217.0,1018.0,3.0,105.4,15.0,316.2,268.77,2026-03,Hair Dryer,Beauty,AED 95.00,99.92
+399,2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18,50119.0,303.0,2026-02-19,Completed,Bank Transfer,90293.0,1016.0,2.0,76.25,5.0,152.5,144.88,2026-02,Face Cleanser,Beauty,35.00,74.05
+400,2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18,50119.0,303.0,2026-02-19,Completed,Bank Transfer,90294.0,1020.0,3.0,368.76,5.0,1106.28,1050.97,2026-02,Sunscreen,Beauty,260.00,360.04
+401,2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29,50063.0,307.0,2026-02-26,Completed,Credit Card,90146.0,1001.0,4.0,255.81,0.0,1023.24,1023.24,2026-02,Wireless Mouse,Electronics,180.00,259.03
+402,2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29,50063.0,307.0,2026-02-26,Completed,Credit Card,90147.0,1012.0,2.0,233.22,5.0,466.44,443.12,2026-02,Running Shoes,Fashion,140.00,220.16
+403,2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29,50063.0,307.0,2026-02-26,Completed,Credit Card,90148.0,1012.0,2.0,215.37,0.0,430.74,430.74,2026-02,Running Shoes,Fashion,140.00,220.16
+404,2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29,50104.0,308.0,2026-04-30,Shipped,Credit Card,90255.0,1018.0,3.0,99.66,15.0,298.98,254.13,2026-04,Hair Dryer,Beauty,AED 95.00,99.92
+405,2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29,50104.0,308.0,2026-04-30,Shipped,Credit Card,90256.0,1013.0,3.0,35.06,0.0,105.18,105.18,2026-04,Backpack,FASHION,18.00,35.23
+406,2051,Karim Ibrahim,karim.ibrahim14@example.com,Ajman,2026-07-09,50035.0,307.0,,Cancelled,Cash,90081.0,1005.0,1.0,160.76,0.0,160.76,160.76,,Keyboard,Electronics,110.00,156.15
+407,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50079.0,304.0,2026-05-05,Completed,Apple Pay,90186.0,1020.0,2.0,357.88,15.0,715.76,608.4,2026-05,Sunscreen,Beauty,260.00,360.04
+408,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50161.0,304.0,2026-07-01,Completed,Apple Pay,90400.0,1011.0,3.0,109.34,15.0,328.02,278.82,2026-07,Cotton T-Shirt,Fashion,70.00,106.84
+409,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50161.0,304.0,2026-07-01,Completed,Apple Pay,90401.0,1016.0,2.0,72.95,0.0,145.9,145.9,2026-07,Face Cleanser,Beauty,35.00,74.05
+410,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50161.0,304.0,2026-07-01,Completed,Apple Pay,90402.0,1013.0,3.0,37.06,0.0,111.18,111.18,2026-07,Backpack,FASHION,18.00,35.23
+411,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50161.0,304.0,2026-07-01,Completed,Apple Pay,90403.0,1007.0,2.0,34.63,15.0,69.26,58.87,2026-07,Water Bottle,Home,22.00,33.55
+412,2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27,50161.0,304.0,2026-07-01,Completed,Apple Pay,90403.0,1007.0,2.0,34.63,15.0,69.26,58.87,2026-07,Water Bottle,Home,22.00,33.55
+413,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50038.0,308.0,2026-03-31,Cancelled,Cash,90085.0,1022.0,1.0,98.23,0.0,98.23,98.23,2026-03,Resistance Bands,Sports,70.00,"1,250.00"
+414,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50067.0,307.0,,Shipped,Cash,90155.0,1021.0,4.0,144.15,0.0,576.6,576.6,,Yoga Mat,Sports,85.00,151.21
+415,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50067.0,307.0,,Shipped,Cash,90156.0,1016.0,1.0,74.19,15.0,74.19,63.06,,Face Cleanser,Beauty,35.00,74.05
+416,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50067.0,307.0,,Shipped,Cash,90157.0,1008.0,2.0,199.77,0.0,399.54,399.54,,Desk Lamp,home ,110.00,201.48
+417,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50067.0,307.0,,Shipped,Cash,90158.0,1020.0,3.0,363.09,0.0,1089.27,1089.27,,Sunscreen,Beauty,260.00,360.04
+418,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50101.0,308.0,2026-01-28,Shipped,Apple Pay,90249.0,1024.0,1.0,287.49,0.0,287.49,,2026-01,Dumbbells,Sports,140.00,288.17
+419,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50101.0,308.0,2026-01-28,Shipped,Apple Pay,90250.0,1017.0,4.0,81.79,0.0,327.16,327.16,2026-01,Moisturizer,Beauty,55.00,78.75
+420,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50156.0,301.0,2026-06-18,Returned,Credit Card,90387.0,1018.0,1.0,101.1,10.0,101.1,90.99,2026-06,Hair Dryer,Beauty,AED 95.00,99.92
+421,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50156.0,301.0,2026-06-18,Returned,Credit Card,90388.0,1011.0,4.0,104.17,0.0,416.68,416.68,2026-06,Cotton T-Shirt,Fashion,70.00,106.84
+422,2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08,50156.0,301.0,2026-06-18,Returned,Credit Card,90389.0,1013.0,1.0,36.93,15.0,36.93,31.39,2026-06,Backpack,FASHION,18.00,35.23
+423,2054,Hana Ali,hana.ali17@example.com,Abu Dhabi,2025-10-07,50069.0,305.0,,Returned,Credit Card,90161.0,1021.0,4.0,146.74,0.0,586.96,586.96,,Yoga Mat,Sports,85.00,151.21
+424,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50009.0,303.0,2026-01-18,Pending,Card,90017.0,1009.0,1.0,173.27,10.0,173.27,155.94,2026-01,Storage Box,Home,110.00,166.00
+425,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50009.0,303.0,2026-01-18,Pending,Card,90018.0,1025.0,1.0,102.58,10.0,102.58,92.32,2026-01,Sports Watch,Sports,Unknown,99.65
+426,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50009.0,303.0,2026-01-18,Pending,Card,90019.0,1010.0,2.0,356.45,10.0,712.9,641.61,2026-01,Coffee Maker,Home,180.00,343.99
+427,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50009.0,303.0,2026-01-18,Pending,Card,90020.0,1008.0,2.0,195.45,10.0,390.9,351.81,2026-01,Desk Lamp,home ,110.00,201.48
+428,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50078.0,307.0,,Cancelled,Credit Card,90183.0,1017.0,2.0,75.37,0.0,150.74,150.74,,Moisturizer,Beauty,55.00,78.75
+429,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50078.0,307.0,,Cancelled,Credit Card,90184.0,1020.0,4.0,343.89,0.0,1375.56,1375.56,,Sunscreen,Beauty,260.00,360.04
+430,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50078.0,307.0,,Cancelled,Credit Card,90185.0,1008.0,3.0,198.65,0.0,595.95,595.95,,Desk Lamp,home ,110.00,201.48
+431,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50098.0,302.0,2026-07-23,Pending,Card,90240.0,1017.0,1.0,74.39,0.0,74.39,74.39,2026-07,Moisturizer,Beauty,55.00,78.75
+432,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50098.0,302.0,2026-07-23,Pending,Card,90241.0,1023.0,3.0,0.0,20.0,,,2026-07,Fitness Bottle,Sports,45.00,90.61
+433,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50098.0,302.0,2026-07-23,Pending,Card,90242.0,1015.0,2.0,90.56,10.0,181.12,163.01,2026-07,Hoodie,Fashion,55.00,86.48
+434,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50098.0,302.0,2026-07-23,Pending,Card,90243.0,1005.0,3.0,152.75,10.0,458.25,412.42,2026-07,Keyboard,Electronics,110.00,156.15
+435,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50108.0,306.0,2026-02-16,Shipped,Cash,90267.0,1018.0,3.0,95.23,0.0,285.69,285.69,2026-02,Hair Dryer,Beauty,AED 95.00,99.92
+436,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50108.0,306.0,2026-02-16,Shipped,Cash,90268.0,1024.0,2.0,272.64,0.0,545.28,545.28,2026-02,Dumbbells,Sports,140.00,288.17
+437,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50108.0,306.0,2026-02-16,Shipped,Cash,90269.0,1017.0,2.0,76.23,15.0,152.46,129.59,2026-02,Moisturizer,Beauty,55.00,78.75
+438,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50152.0,303.0,2026-03-26,Shipped,Bank Transfer,90373.0,1022.0,3.0,101.94,5.0,305.82,290.53,2026-03,Resistance Bands,Sports,70.00,"1,250.00"
+439,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50152.0,303.0,2026-03-26,Shipped,Bank Transfer,90374.0,1005.0,1.0,160.75,10.0,160.75,144.68,2026-03,Keyboard,Electronics,110.00,156.15
+440,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50152.0,303.0,2026-03-26,Shipped,Bank Transfer,90375.0,1012.0,1.0,218.5,0.0,218.5,218.5,2026-03,Running Shoes,Fashion,140.00,220.16
+441,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50152.0,303.0,2026-03-26,Shipped,Bank Transfer,90376.0,1003.0,3.0,52.81,10.0,158.43,142.59,2026-03,USB-C Hub, electronics ,35.00,51.16
+442,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50174.0,307.0,2026-01-12,Completed,Bank Transfer,90439.0,1019.0,4.0,97.01,5.0,388.04,368.64,2026-01,Perfume,Beauty,55.00,100.81
+443,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50174.0,307.0,2026-01-12,Completed,Bank Transfer,90440.0,1021.0,2.0,145.17,10.0,290.34,261.31,2026-01,Yoga Mat,Sports,85.00,151.21
+444,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50181.0,307.0,2026-03-23,Cancelled,Bank Transfer,90456.0,1024.0,3.0,295.46,20.0,886.38,709.1,2026-03,Dumbbells,Sports,140.00,288.17
+445,2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10,50181.0,307.0,2026-03-23,Cancelled,Bank Transfer,90457.0,1021.0,4.0,153.32,0.0,613.28,613.28,2026-03,Yoga Mat,Sports,85.00,151.21
+446,2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22,50170.0,303.0,2026-04-25,Pending,Bank Transfer,90427.0,1013.0,1.0,35.71,15.0,35.71,30.35,2026-04,Backpack,FASHION,18.00,35.23
+447,2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22,50170.0,303.0,2026-04-25,Pending,Bank Transfer,90428.0,1007.0,4.0,33.27,10.0,133.08,119.77,2026-04,Water Bottle,Home,22.00,33.55
+448,2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22,50170.0,303.0,2026-04-25,Pending,Bank Transfer,90428.0,1007.0,4.0,33.27,10.0,133.08,119.77,2026-04,Water Bottle,Home,22.00,33.55
+449,2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22,50170.0,303.0,2026-04-25,Pending,Bank Transfer,90429.0,1001.0,2.0,252.14,0.0,504.28,504.28,2026-04,Wireless Mouse,Electronics,180.00,259.03
+450,2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22,50170.0,303.0,2026-04-25,Pending,Bank Transfer,90430.0,1023.0,1.0,86.28,10.0,86.28,77.65,2026-04,Fitness Bottle,Sports,45.00,90.61
+451,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50017.0,304.0,2026-04-05,Completed,Cash,90039.0,1014.0,1.0,57.19,20.0,57.19,45.75,2026-04,Sunglasses,Fashion,30.00,57.26
+452,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50017.0,304.0,2026-04-05,Completed,Cash,90040.0,1014.0,3.0,58.57,0.0,175.71,175.71,2026-04,Sunglasses,Fashion,30.00,57.26
+453,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50032.0,307.0,2026-06-08,Cancelled,Credit Card,90072.0,1022.0,4.0,103.85,20.0,415.4,332.32,2026-06,Resistance Bands,Sports,70.00,"1,250.00"
+454,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50032.0,307.0,2026-06-08,Cancelled,Credit Card,90073.0,1002.0,3.0,337.64,10.0,1012.92,911.63,2026-06,Bluetooth Speaker,Electronics,220.00,345.41
+455,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50032.0,307.0,2026-06-08,Cancelled,Credit Card,90074.0,1004.0,2.0,42.39,0.0,84.78,84.78,2026-06,Power Bank,Electronics,22.00,41.61
+456,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50034.0,307.0,,Completed,Apple Pay,90077.0,1018.0,1.0,0.0,10.0,,,,Hair Dryer,Beauty,AED 95.00,99.92
+457,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50034.0,307.0,,Completed,Apple Pay,90078.0,1023.0,3.0,87.14,0.0,261.42,261.42,,Fitness Bottle,Sports,45.00,90.61
+458,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50034.0,307.0,,Completed,Apple Pay,90079.0,1023.0,3.0,88.99,0.0,266.97,266.97,,Fitness Bottle,Sports,45.00,90.61
+459,2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18,50034.0,307.0,,Completed,Apple Pay,90080.0,1006.0,2.0,98.1,10.0,196.2,176.58,,Air Fryer,Home,70.00,96.28
+460,2058,Ziad Ali,ziad.ali21@example.com,Dubai,2026-05-30,,,,,,,,,,,,,,,,,
+461,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50082.0,303.0,2026-06-09,Pending,Card,90192.0,1023.0,4.0,86.51,0.0,346.04,346.04,2026-06,Fitness Bottle,Sports,45.00,90.61
+462,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50082.0,303.0,2026-06-09,Pending,Card,90193.0,1003.0,4.0,53.61,0.0,214.44,214.44,2026-06,USB-C Hub, electronics ,35.00,51.16
+463,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50082.0,303.0,2026-06-09,Pending,Card,90194.0,1015.0,1.0,88.37,20.0,88.37,70.7,2026-06,Hoodie,Fashion,55.00,86.48
+464,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50083.0,307.0,2026-06-01,Pending,Card,90195.0,1022.0,3.0,93.75,15.0,281.25,239.06,2026-06,Resistance Bands,Sports,70.00,"1,250.00"
+465,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50083.0,307.0,2026-06-01,Pending,Card,90196.0,1018.0,3.0,104.13,0.0,312.39,312.39,2026-06,Hair Dryer,Beauty,AED 95.00,99.92
+466,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50083.0,307.0,2026-06-01,Pending,Card,90197.0,1023.0,2.0,89.1,20.0,178.2,142.56,2026-06,Fitness Bottle,Sports,45.00,90.61
+467,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50178.0,308.0,2026-01-04,Cancelled,Cash,90451.0,1018.0,1.0,102.55,20.0,102.55,82.04,2026-01,Hair Dryer,Beauty,AED 95.00,99.92
+468,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50178.0,308.0,2026-01-04,Cancelled,Cash,90452.0,1018.0,2.0,95.15,5.0,190.3,180.78,2026-01,Hair Dryer,Beauty,AED 95.00,99.92
+469,2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21,50178.0,308.0,2026-01-04,Cancelled,Cash,90453.0,1021.0,2.0,158.01,0.0,316.02,316.02,2026-01,Yoga Mat,Sports,85.00,151.21
+470,2060,Mariam Mahmoud,mariam.mahmoud23@example.com,Ajman,2026-03-06,50033.0,304.0,2026-02-11,Returned,Cash,90075.0,1004.0,3.0,41.89,20.0,125.67,100.54,2026-02,Power Bank,Electronics,22.00,41.61
+471,2060,Mariam Mahmoud,mariam.mahmoud23@example.com,Ajman,2026-03-06,50033.0,304.0,2026-02-11,Returned,Cash,90076.0,1004.0,3.0,40.24,10.0,120.72,108.65,2026-02,Power Bank,Electronics,22.00,41.61

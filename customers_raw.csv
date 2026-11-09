@@ -1,0 +1,62 @@
+﻿customer_id,customer_name,email,city,signup_date
+2001,Omar Hassan,omar.hassan61@example.com,Fujairah,2025-10-25
+2002,Salma Ali,salma.ali62@example.com,Abu Dhabi,2025-08-21
+2003,Laila Khalil,laila.khalil63@example.com,Ajman,2026-05-22
+2004,Adam Mahmoud,adam.mahmoud64@example.com, dubai ,2025-12-29
+2005,Youssef Samir,youssef.samir65@example.com,Sharjah,2026-06-25
+2006,Omar Adel,omar.adel66@example.com,Fujairah,2025-09-26
+2007,Ziad Fathy,ziad.fathy67@example.com,Abu Dhabi,2025-09-22
+2008,Farah Ibrahim,farah.ibrahim68@example.com,Sharjah,2026-05-24
+2009,Ziad Saeed,,Fujairah,2025-12-14
+2010,Mona Saeed,mona.saeed70@example.com,Dubai,2026-08-17
+2011,Hana Ibrahim,hana.ibrahim71@example.com,Sharjah,2025-08-03
+2011,Hana Ibrahim,hana.ibrahim71@example.com,Sharjah,2025-08-03
+2012,Youssef Adel,youssef.adel72@example.com,Fujairah,2025-12-09
+2013,Youssef Samir,youssef.samir73@example.com,Ajman,2026-01-19
+2014,Farah Mahmoud,farah.mahmoud74@example.com,Sharjah,2025-09-10
+2015,Mariam Fathy,mariam.fathy75@example.com,SHARJAH,2026-04-02
+2016,Khaled Fathy,khaled.fathy76@example.com,Ras Al Khaimah,2026-02-05
+2017,Malak Ibrahim,malak.ibrahim77@example.com,Sharjah,2025-10-21
+2018,Ali Younis,ali.younis78@example.com,Ajman,2025-08-16
+2019,Mona Ali,mona.ali79@example.com,Abu Dhabi,2026-05-18
+2020,Nour Samir,nour.samir80@example.com,Ajman,2026-05-02
+2021,Omar Ibrahim,omar.ibrahim81@example.com,Ajman,2026-05-02
+2022,Farah Younis,farah.younis82@example.com,Sharjah,2026-04-10
+2023,  Ahmed Samir ,ahmed.samir83@example.com,Fujairah,2025-08-28
+2024,Ziad Khalil,ziad.khalil84@example.com,Fujairah,2025-12-22
+2025,Sara Khalil,sara.khalil85@example.com,Ajman,2025-09-19
+2026,Farah Hassan,farah.hassan86@example.com,Fujairah,2026-07-04
+2027,Khaled Younis,khaled.younis87@example.com,Abu Dhabi,2026-03-17
+2028,Sara Samir,sara.samir88@example.com,Sharjah,2026-09-04
+2029,Dina Adel,dina.adel89@example.com,Abu Dhabi,2025-09-17
+2030,Adam Mahmoud,adam.mahmoud90@example.com,Ras Al Khaimah,2026-08-03
+2031,Dina Hassan,dina.hassan91@example.com,Ras Al Khaimah,2025-12-13
+2032,Tarek Hassan,not_provided,Dubai,2026-01-02
+2033,Salma Saeed,salma.saeed93@example.com,Dubai,2025-11-01
+2034,Malak Ali,malak.ali94@example.com,Dubai,2026-07-10
+2035,Tarek Ali,tarek.ali95@example.com,Ras Al Khaimah,2026-07-28
+2036,Ali Mahmoud,ali.mahmoud96@example.com,Fujairah,2026-03-01
+2037,Ziad Mahmoud,ziad.mahmoud0@example.com,Sharjah,2026-03-28
+2038,Hassan Ibrahim,hassan.ibrahim1@example.com,Abu Dhabi,2026-04-03
+2039,Youssef Fathy,youssef.fathy2@example.com,Sharjah,2026-01-21
+2040,Adam Farouk,adam.farouk3@example.com,Ras Al Khaimah,2026-02-17
+2041,Sara Saeed,sara.saeed4@example.com,Abu Dhabi,2025-08-02
+2042,Hana Hassan,hana.hassan5@example.com,Ras Al Khaimah,2026-04-10
+2043,Mariam Adel,mariam.adel6@example.com,Abu Dhabi,2025-07-04
+2044,Omar Fathy,omar.fathy7@example.com,Fujairah,2025-07-31
+2045,Mariam Ali,mariam.ali8@example.com,Dubai,2025-12-17
+2046,Omar Younis,omar.younis9@example.com,Abu Dhabi,2025-11-20
+2047,Tarek Saeed,tarek.saeed10@example.com,Ras Al Khaimah,2025-09-06
+2048,Malak Adel,malak.adel11@example.com,Ajman,2025-11-02
+2049,Tarek Ibrahim,tarek.ibrahim12@example.com,Abu Dhabi,2025-08-18
+2050,Sara Samir,sara.samir13@example.com,Ajman,2025-12-29
+2051,Karim Ibrahim,karim.ibrahim14@example.com,Ajman,2026-07-09
+2052,Mona Samir,mona.samir15@example.com,Fujairah,2026-05-27
+2053,Sara Hassan,sara.hassan16@example.com,Ajman,2026-07-08
+2054,Hana Ali,hana.ali17@example.com,Abu Dhabi,2025-10-07
+2055,Youssef Younis,youssef.younis18@example.com,Ajman,2025-09-10
+2056,Karim Mahmoud,karim.mahmoud19@example.com,Sharjah,2026-02-22
+2057,Mariam Ali,mariam.ali20@example.com,Ajman,2026-08-18
+2058,Ziad Ali,ziad.ali21@example.com,Dubai,2026-05-30
+2059,Ziad Hassan,ziad.hassan22@example.com,Dubai,2026-07-21
+2060,Mariam Mahmoud,mariam.mahmoud23@example.com,Ajman,2026-03-06

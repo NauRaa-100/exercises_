@@ -1,0 +1,27 @@
+﻿product_id,product_name,category,unit_cost,list_price
+1001,Wireless Mouse,Electronics,180.00,259.03
+1002,Bluetooth Speaker,Electronics,220.00,345.41
+1003,USB-C Hub, electronics ,35.00,51.16
+1004,Power Bank,Electronics,22.00,41.61
+1005,Keyboard,Electronics,110.00,156.15
+1006,Air Fryer,Home,70.00,96.28
+1007,Water Bottle,Home,22.00,33.55
+1007,Water Bottle,Home,22.00,33.55
+1008,Desk Lamp,home ,110.00,201.48
+1009,Storage Box,Home,110.00,166.00
+1010,Coffee Maker,Home,180.00,343.99
+1011,Cotton T-Shirt,Fashion,70.00,106.84
+1012,Running Shoes,Fashion,140.00,220.16
+1013,Backpack,FASHION,18.00,35.23
+1014,Sunglasses,Fashion,30.00,57.26
+1015,Hoodie,Fashion,55.00,86.48
+1016,Face Cleanser,Beauty,35.00,74.05
+1017,Moisturizer,Beauty,55.00,78.75
+1018,Hair Dryer,Beauty,AED 95.00,99.92
+1019,Perfume,Beauty,55.00,100.81
+1020,Sunscreen,Beauty,260.00,360.04
+1021,Yoga Mat,Sports,85.00,151.21
+1022,Resistance Bands,Sports,70.00,"1,250.00"
+1023,Fitness Bottle,Sports,45.00,90.61
+1024,Dumbbells,Sports,140.00,288.17
+1025,Sports Watch,Sports,,99.65
