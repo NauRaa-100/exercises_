@@ -34,5 +34,3 @@ TODAY'S PANDAS TASK (NO DASHBOARD DESIGN)
 9. Export an Excel workbook with sheets: Cleaned_Orders, Monthly_Sales, Top_Products, City_Sales.
 10. Write three evidence-based business findings.
 
-SCOPE LIMIT
-For today's revision, finish steps 1-8 only if time is tight. Do not build a Power BI dashboard or automate scheduling.
